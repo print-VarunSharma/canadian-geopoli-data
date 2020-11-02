@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 from dotenv import load_dotenv
 load_dotenv()
-DISTANCE_API_key = os.getenv("GMAP_API_KEY")"             
+DISTANCE_API_key = os.getenv("GMAP_API_KEY")            
 
 gmaps = googlemaps.Client(key=GMAP_DISTANCE_API_KEY)
 

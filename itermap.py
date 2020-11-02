@@ -8,7 +8,10 @@ df = pd.read_csv('data/federal-coordinates.csv')
 
 
 #Perform request to use the Google Maps API web service
-API_key = "AIzaSyCzdSHETxm3V44Remxj9j663Tl-JdUVFLQ"  #enter Google Maps API key
+import os
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.getenv("GMAP_API_KEY")  #enter Google Maps API key
 gmaps = googlemaps.Client(key=API_key)
 
 
