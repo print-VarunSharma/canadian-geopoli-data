@@ -1,0 +1,395 @@
+﻿Honorific,First name,Last name,Gender,Office type,Address - incomeplete,City,Province,Address -postcode,Office email,Email,Telephone,Fax,Toll-free,TTY,Riding name,Party,,formatted_address,,latitude,longitude,coordinates,google_place_id,type,postcode,input_string,number_of_results,status,,distane to ON parl.
+,Deepak,Anand,Male ,Constituency office,"Unit 11
+7895 Tranmere Dr.
+",Mississauga,ON,L5S 1V9,,deepak.anand@pc.ola.org,905-696-0367,905-696-7545 ,,,Mississauga—Malton,Progressive Conservative Party of Ontario,0,"Mississauga, ON L5S 1V9, Canada",,43.6790822,-79.6709093,"43.6790822,-79.67090929999999",ChIJ7YO9iME-K4gRVDOXQ29VPxY,postal_code,L5S 1V9,L5S 1V9,1,OK,,34.798
+,Jill,Andrew,Female ,Constituency office,"803 St. Clair Ave. W
+",Toronto,ON,M6C 1B9,JAndrew-CO@ndp.on.ca,JAndrew-QP@ndp.on.ca,416-656-0943  ,416-656-0875  ,,,Toronto—St. Paul's,New Democratic Party of Ontario,1,"Toronto, ON M6C 1B9, Canada",,43.6804586,-79.4307414,"43.6804586,-79.4307414",ChIJtbX9MX80K4gR3tBE-KIB-pY,postal_code,M6C 1B9,M6C 1B9,1,OK,,5.46
+,Teresa,Armstrong,Female ,Constituency office,"155 Clarke Rd.
+",London,ON,N5W 5C9,tarmstrong-co@ndp.on.ca,tarmstrong-qp@ndp.on.ca,519-668-1104  ,519-668-1941 ,,,London—Fanshawe,New Democratic Party of Ontario,2,"London, ON N5W 5C9, Canada",,42.9880094,-81.1680315,"42.9880094,-81.1680315",ChIJt1oFvqvyLogRAflaG01yi5U,postal_code,N5W 5C9,N5W 5C9,1,OK,,186.137
+Hon.,Ted,Arnott,Male ,Constituency office,"2nd Floor
+181 St. Andrew St. E
+",Fergus,ON,N1M 1P9,ted.arnottco@pc.ola.org,ted.arnott@pc.ola.org,519-787-5247 ,519-787-5249,1-800-265-2366,,Wellington—Halton Hills,Progressive Conservative Party of Ontario,3,"Fergus, ON N1M 1P9, Canada",,43.7067804,-80.3770868,"43.7067804,-80.3770868",ChIJAcKieA2-K4gR_mIxBpsG9lM,postal_code,N1M 1P9,N1M 1P9,1,OK,,108.072
+,Ian,Arthur,Male ,Constituency office,"The LaSalle Mews
+
+Suite 2
+303 Bagot St.
+",Kingston,ON,K7K 5W7,IArthur-CO@ndp.on.ca,IArthur-QP@ndp.on.ca,613-547-2385,613-547-5001,,,Kingston and the Islands,New Democratic Party of Ontario,4,"Kingston, ON K7K 5W7, Canada",,44.2322657,-76.4837773,"44.2322657,-76.4837773",ChIJDaqXj_-q0kwR6XtGMa5jAtA,postal_code,K7K 5W7,K7K 5W7,1,OK,,262.206
+,Roman,Baber,Male ,Constituency office,"830 Sheppard Ave. W.
+",Toronto,ON,M3H 2T1,,roman.baber@pc.ola.org,416-630-0080,416-630-8828,,,York Centre,Progressive Conservative Party of Ontario,5,"North York, ON M3H 2T1, Canada",,43.7531238,-79.4507869,"43.7531238,-79.4507869",ChIJy4Hr8AwyK4gRb8O2QixDxX0,postal_code,M3H 2T1,M3H 2T1,1,OK,,14.186
+,Aris,Babikian,Male ,Constituency office,"Suite 207
+4002 Sheppard Ave. E
+",Scarborough,ON,M1S 4R5,,aris.babikian@pc.ola.org,416-297-6568,416-297-4962,,,Scarborough—Agincourt,Progressive Conservative Party of Ontario,6,"Scarborough, ON M1S 4R5, Canada",,43.7837055,-79.2878356,"43.7837055,-79.2878356",ChIJQfpJon_R1IkRolr1d-v-zFM,postal_code,M1S 4R5,M1S 4R5,1,OK,,21.912
+,Robert,Bailey,Male ,Constituency office,"Suite 102
+805 Christina St. N
+",Point Edward,ON,N7V 1X6,bob.baileyco@pc.ola.org,bob.bailey@pc.ola.org,519-337-0051,519-337-3246,,,Sarnia—Lambton,Progressive Conservative Party of Ontario,7,"Point Edward, ON N7V 1X6, Canada",,42.9962965,-82.3959907,"42.9962965,-82.3959907",ChIJfzp-0a6cJYgRzTsE68FNreU,postal_code,N7V 1X6,N7V 1X6,1,OK,,290.353
+,Toby,Barrett,Male ,Constituency office,"39 Norfolk St. N
+",Simcoe,ON,N3Y 3N6,toby.barrett@pc.ola.org,,519-428-0446,519-428-0835,,,Haldimand—Norfolk,Progressive Conservative Party of Ontario,8,"Simcoe, ON N3Y 3N6, Canada",,42.8380704,-80.3040743,"42.8380704,-80.3040743",ChIJEfUxK9lNLIgRpvijH6TTvGg,postal_code,N3Y 3N6,N3Y 3N6,1,OK,,148.483
+,Doly,Begum,Female ,Constituency office,"Unit 5A
+3110 Kingston Rd.
+",Scarborough,ON,M1M 1P2,DBegum-CO@ndp.on.ca,DBegum-QP@ndp.on.ca,416-261-9525,416-261-0381,,,Scarborough Southwest,New Democratic Party of Ontario,9,"Scarborough, ON M1M 1P2, Canada",,43.7266657,-79.2315459,"43.7266657,-79.2315459",ChIJb8vHw8TP1IkRjFs6WaYiakc,postal_code,M1M 1P2,M1M 1P2,1,OK,,18.255
+,Jessica,Bell,Female ,Constituency office,"Unit 103
+719 Bloor St. W
+",Toronto,ON,M6G 1L5,jbell-CO@ndp.on.ca,JBell-QP@ndp.on.ca,416-535-7206,,,,University—Rosedale,New Democratic Party of Ontario,10,"Toronto, ON M6G 1L5, Canada",,43.6635475,-79.417903,"43.6635475,-79.417903",ChIJuYKRTfM0K4gRkwXd3YbDoOM,postal_code,M6G 1L5,M6G 1L5,1,OK,,2.97
+,Rima,Berns-McGown,Female ,Constituency office,"1821 Danforth Ave.
+",Toronto,ON,M4C 1J2,RBerns-McGown-CO@ndp.on.ca,RBerns-McGown-QP@ndp.on.ca,416-690-1032,416-690-8420,,,Beaches—East York,New Democratic Party of Ontario,11,"Toronto, ON M4C 1J2, Canada",,43.6841828,-79.3186529,"43.68418279999999,-79.31865289999999",ChIJjzPqnG7M1IkRw0zVz-WA3kA,postal_code,M4C 1J2,M4C 1J2,1,OK,,6.883
+Hon.,Peter,Bethlenfalvy,Male ,Constituency office,"Suite 213
+1550 Kingston Rd.
+",Pickering,ON,L1V 1C3,,peter.bethlenfalvy@pc.ola.org,905-509-0336  ,905-509-0334,1-888-444-1730,,Pickering—Uxbridge,Progressive Conservative Party of Ontario,12,"Pickering, ON L1V 1C3, Canada",,43.8455448,-79.0789811,"43.8455448,-79.0789811",ChIJISnNrRvf1IkRjEhXaerw8b8,postal_code,L1V 1C3,L1V 1C3,1,OK,,41.518
+,Gilles,Bisson,Male ,Constituency office,"Suite 202
+60 Wilson Ave.
+",Timmins,ON,P4N 2S7,gbisson@ndp.on.ca,,705-268-6400,705-266-9125,1-800-461-9878,,Timmins,New Democratic Party of Ontario,13,"Timmins, ON P4N 2S7, Canada",,48.4755455,-81.3369307,"48.4755455,-81.3369307",ChIJF9iwT-KlPE0RJzwQZwmH5BY,postal_code,P4N 2S7,P4N 2S7,1,OK,,689.082
+,Stephen,Blais,Male ,Constituency office,"Unit 204
+4473 Innes Rd.
+",Orleans,ON,K4A 1A7,sblais.mpp.co@liberal.ola.org,,613-834-8679,613-834-7647,,,Orléans,Ontario Liberal Party,14,"401-4473 Innes Rd, Orléans, ON K4A 1A7, Canada",,45.4613563,-75.4863806,"45.46135630000001,-75.48638059999999",ChIJ47AxokUSzkwRr8P3s4HLp4E,"establishment,point_of_interest",K4A 1A7,K4A 1A7,1,OK,,466.185
+,Will,Bouma,Male ,Constituency office,"Suite 101
+96 Nelson St.
+",Brantford,ON,N3T 2X1,,will.bouma@pc.ola.org,519-759-0361,519-759-6439,,,Brantford—Brant,Progressive Conservative Party of Ontario,15,"Brantford, ON N3T 2X1, Canada",,43.1426098,-80.2611423,"43.1426098,-80.2611423",ChIJ0QSeeQlmLIgRuCL88DxxWlY,postal_code,N3T 2X1,N3T 2X1,1,OK,,103.71
+,Guy,Bourgouin,Male ,Constituency office,"28 Circle St.
+",Kapuskasing,ON,P5N 1T7,,GBourgouin-QP@ndp.on.ca,705-335-6400  ,,,,Mushkegowuk—James Bay,New Democratic Party of Ontario,16,"Kapuskasing, ON P5N 1T7, Canada",,49.417591,-82.4257349,"49.41759099999999,-82.4257349",ChIJ59OP0rDfPU0Rr8fjbQ0LBBM,postal_code,P5N 1T7,P5N 1T7,1,OK,,832.544
+,Guy,Bourgouin,Male ,Constituency office,"Unit 6
+631 Front St.
+",Hearst,ON,P0L 1N0,,GBourgouin-QP@ndp.on.ca,705-372-6400,705-372-6440,,,Mushkegowuk—James Bay,New Democratic Party of Ontario,17,"Hearst, ON P0L 1N0, Canada",,49.7922368,-83.8124483,"49.7922368,-83.81244830000001",ChIJiSaw-VLjP00RUQTGOXcg8BY,postal_code,P0L 1N0,P0L 1N0,1,OK,,945.384
+,Jeff,Burch,Male ,Constituency office,"Unit 102
+60 King St.
+",Welland,ON,L3B 6A4,JBurch-CO@ndp.on.ca,JBurch-QP@ndp.on.ca,905-732-6884,905-732-9782,,,Niagara Centre,New Democratic Party of Ontario,18,"Welland, ON L3B 6A4, Canada",,42.9908438,-79.2508195,"42.9908438,-79.25081949999999",ChIJAbj3n85J04kR5jdYTy9S56M,postal_code,L3B 6A4,L3B 6A4,1,OK,,135.682
+Hon.,Paul,Calandra,Male ,Constituency office,"Suite 400
+37 Sandiford Dr.
+",Stouffville,ON,L4A 3Z2,,paul.calandra@pc.ola.org,905-642-2588,905-642-1618,1-866-531-9551,,Markham—Stouffville,Progressive Conservative Party of Ontario,19,"37 Sandiford Dr, Whitchurch-Stouffville, ON L4A 3Z2, Canada",,43.9654244,-79.2695166,"43.9654244,-79.2695166",ChIJUZmGNEop1YkRpTBBdzyj8eg,"establishment,point_of_interest",L4A 3Z2,L4A 3Z2,1,OK,,46.29
+Hon.,Raymond Sung Joon,Cho,Male ,Constituency office,"Unit B
+4559 Sheppard Ave. E
+",Toronto,ON,M1S 1V3,,raymond.cho@pc.ola.org,416-297-5040,416-297-6767,,,Scarborough North,Progressive Conservative Party of Ontario,20,"Scarborough, ON M1S 1V3, Canada",,43.7881581,-79.2637911,"43.7881581,-79.26379109999999",ChIJIXC-pA3R1IkRDmwRZ8TMZWc,postal_code,M1S 1V3,M1S 1V3,1,OK,,24.67
+,Stan,Cho,Male ,Constituency office,"111 Sheppard Ave. W
+",North York,ON,M2N 1M7,,stan.cho@pc.ola.org,416-733-7878,416-733-7709,,,Willowdale,Progressive Conservative Party of Ontario,21,"North York, ON M2N 1M7, Canada",,43.7597946,-79.4175512,"43.7597946,-79.41755119999999",ChIJ5_k2SHwtK4gROI9hYmzoaEA,postal_code,M2N 1M7,M2N 1M7,1,OK,,12.991
+Hon.,Steve,Clark,Male ,Constituency office,"Suite 101
+100 Strowger Blvd.
+",Brockville,ON,K6V 5J9,,steve.clark@pc.ola.org,613-342-9522,613-342-2501,1-800-267-4408,,Leeds—Grenville—Thousand Islands and Rideau Lakes,Progressive Conservative Party of Ontario,22,"Brockville, ON K6V 5J9, Canada",,44.5904012,-75.7033644,"44.5904012,-75.7033644",ChIJA7QUfgYPzUwRqNl-V_Nc6kU,postal_code,K6V 5J9,K6V 5J9,1,OK,,337.99
+,Lorne,Coe,Male ,Constituency office,"Suite 101
+114 Dundas St. E
+",Whitby,ON,L1N 2H7,,lorne.coe@pc.ola.org,905-430-1141 ,905-430-1840,,,Whitby,Progressive Conservative Party of Ontario,23,"Whitby, ON L1N 2H7, Canada",,43.8807002,-78.9410221,"43.8807002,-78.9410221",ChIJyQRbvhIe1YkRZWYn1baiWXw,postal_code,L1N 2H7,L1N 2H7,1,OK,,53.82
+,Lucille,Collard,Female ,Constituency office,"237 Montreal Rd.
+",Vanier,ON,K1L 6C7,,LCollard.mpp.co@liberal.ola.org,613-744-4484,613-744-0889,,,Ottawa—Vanier,Ontario Liberal Party,24,"Vanier, ON K1L 6C7, Canada",,45.4360227,-75.6625501,"45.4360227,-75.66255009999999",ChIJhfh3uWoFzkwRqj_EDDQJDVg,postal_code,K1L 6C7,K1L 6C7,1,OK,,452.751
+,Michael,Coteau,Male ,Constituency office,"Suite L02
+1200 Lawrence Ave. E
+",Toronto,ON,M3A 1C1,mcoteau.mpp.co@liberal.ola.org,,416-494-6856,416-494-9937,,,Don Valley East,Ontario Liberal Party,25,"North York, ON M3A 1C1, Canada",,43.7415106,-79.3196212,"43.7415106,-79.3196212",ChIJRzwcgoXN1IkRZeg8p5giaSM,postal_code,M3A 1C1,M3A 1C1,1,OK,,14.191
+,Stephen,Crawford,Male ,Constituency office,"Unit 1
+74 Rebecca St.
+",Oakville,ON,L6K 1J2,,stephen.crawford@pc.ola.org,905-827-5141,905-827-3786,,,Oakville,Progressive Conservative Party of Ontario,26,"Oakville, ON L6K 1J2, Canada",,43.4411363,-79.6755571,"43.4411363,-79.67555709999999",ChIJOeJVVvRcK4gR3hyeI9JYaQ8,postal_code,L6K 1J2,L6K 1J2,1,OK,,42.621
+,Rudy,Cuzzetto,Male ,Constituency office,"Unit 1 &amp; 2
+120 Lakeshore Rd. W
+",Mississauga,ON,L5H 1E8,rudy.cuzzettoco@pc.ola.org,rudy.cuzzetto@pc.ola.org,905-274-8228,905-274-8552,,,Mississauga—Lakeshore,Progressive Conservative Party of Ontario,27,"Mississauga, ON L5H 1E8, Canada",,43.5499744,-79.587998,"43.5499744,-79.587998",ChIJ2cUJ_HNGK4gRNt7YRmieyEw,postal_code,L5H 1E8,L5H 1E8,1,OK,,26.774
+Hon.,Doug,Downey,Male ,Constituency office,"Unit 14
+20 Bell Farm Rd.
+",Barrie,ON,L4M 6E4,doug.downeyco@pc.ola.org,doug.downey@pc.ola.org,705-726-5538,705-726-2880,,,Barrie—Springwater—Oro-Medonte,Progressive Conservative Party of Ontario,28,"Barrie, ON L4M 6E4, Canada",,44.4085187,-79.6835367,"44.40851869999999,-79.68353669999999",ChIJiwGrmBCjKogRtDn24d0MvkA,postal_code,L4M 6E4,L4M 6E4,1,OK,,97.243
+Hon.,Jill,Dunlop,Female ,Constituency office,"14 Coldwater Rd. W
+",Orillia,ON,L3V 3L1,,jill.dunlop@pc.ola.org,705-326-3246,705-326-9579,1-800-304-7341,,Simcoe North,Progressive Conservative Party of Ontario,29,"Orillia, ON L3V 3L1, Canada",,44.6097742,-79.4219398,"44.6097742,-79.42193979999999",ChIJIdKUjjqpKk0R3Tamx8h4wD0,postal_code,L3V 3L1,L3V 3L1,1,OK,,131.031
+Hon.,Jill,Dunlop,Female ,Constituency office,"TD Canada Trust Bank Plaza
+Unit 6
+295 King St.
+",Midland,ON,L4R 3M5,,jill.dunlop@pc.ola.org,705-526-8671,705-526-8600,,,Simcoe North,Progressive Conservative Party of Ontario,30,"Midland, ON L4R 3M5, Canada",,44.74934,-79.8843674,"44.74934,-79.8843674",ChIJH0cCKBDbKk0RLEngZLTpJL4,postal_code,L4R 3M5,L4R 3M5,1,OK,,146.323
+Hon.,Christine,Elliott,Female ,Constituency office,"Unit 22
+16635 Yonge St.
+",Newmarket,ON,L3X 1V6,,christine.elliott@pc.ola.org,905-853-9889,905-853-6115,1-800-211-1881,,Newmarket—Aurora,Progressive Conservative Party of Ontario,31,"Newmarket, ON L3X 1V6, Canada",,44.0343966,-79.4735525,"44.0343966,-79.4735525",ChIJB6XhrYfRKogR-OdTR2GfuC0,postal_code,L3X 1V6,L3X 1V6,1,OK,,54.541
+Hon.,Victor,Fedeli,Male ,Constituency office,"219 Main St. E
+",North Bay,ON,P1B 1B2,vic.fedelico@pc.ola.org,vic.fedeli@pc.ola.org,705-474-8340,705-474-9747,,,Nipissing,Progressive Conservative Party of Ontario,32,"North Bay, ON P1B 1B2, Canada",,46.3080308,-79.4624743,"46.3080308,-79.4624743",ChIJv_7PHYWqKU0RIJ_teV2ovdg,postal_code,P1B 1B2,P1B 1B2,1,OK,,343.3
+,Amy,Fee,Female ,Constituency office,"Unit 4
+4281 King St. E
+",Kitchener,ON,N2P 2E9,amy.feeco@pc.ola.org,amy.fee@pc.ola.org,519-650-9413,519-650-7006,,,Kitchener South—Hespeler,Progressive Conservative Party of Ontario,33,"Kitchener, ON N2P 2E9, Canada",,43.4077793,-80.3982216,"43.4077793,-80.3982216",ChIJi5D4L0OKK4gRJy-C0uj_V8A,postal_code,N2P 2E9,N2P 2E9,1,OK,,99.661
+,Catherine,Fife,Female ,Constituency office,"Suite 220
+100 Regina St. S
+",Waterloo,ON,N2J 4P9,,cfife-qp@ndp.on.ca,519-725-3477,519-725-3667,,,Waterloo,New Democratic Party of Ontario,34,"Waterloo, ON N2J 4P9, Canada",,43.4632558,-80.5204027,"43.4632558,-80.52040269999999",ChIJpeTxam30K4gRJtKX2-nLk3c,postal_code,N2J 4P9,N2J 4P9,1,OK,,114.637
+Hon.,Doug,Ford,Male ,Constituency office,"823 Albion Rd.
+",Etobicoke,ON,M9V 1A3,doug.fordco@pc.ola.org,,416-745-2859,416-745-4601  ,,,Etobicoke North,Progressive Conservative Party of Ontario,35,"Etobicoke, ON M9V 1A3, Canada",,43.7345969,-79.5601684,"43.7345969,-79.5601684",ChIJa5CMgn8wK4gRleA6tsxWdZk,postal_code,M9V 1A3,M9V 1A3,1,OK,,21.565
+,John,Fraser,Male ,Constituency office,"1828 Bank St.
+",Ottawa,ON,K1V 7Y6,Jfraser.mpp.co@liberal.ola.org,,613-736-9573  ,613-736-7374  ,,,Ottawa South,Ontario Liberal Party,36,"Ottawa, ON K1V 7Y6, Canada",,45.3744887,-75.6661981,"45.37448870000001,-75.6661981",ChIJ_RJTmakIzkwRnF789q9Am2M,postal_code,K1V 7Y6,K1V 7Y6,1,OK,,451.417
+,Jennifer,French,Female ,Constituency office,"Unit 2
+78 Centre St. N
+",Oshawa,ON,L1G 4B6,​​​​​​​JFrench-CO@ndp.on.ca,JFrench-QP@ndp.on.ca,905-723-2411  ,905-723-1054  ,,,Oshawa,New Democratic Party of Ontario,37,"Oshawa, ON L1G 4B6, Canada",,43.8991742,-78.8670156,"43.8991742,-78.8670156",ChIJr4bZI-Qc1YkRH6vUzQbBfVM,postal_code,L1G 4B6,L1G 4B6,1,OK,,60.974
+Hon.,Merrilee,Fullerton,Female ,Constituency office,"Suite 100
+240 Michael Cowpland Dr.
+",Kanata,ON,K2M 1P6,merrilee.fullerton@pc.ola.org,,613-599-3000  ,613-599-8183  ,1-800-267-1020,,Kanata—Carleton,Progressive Conservative Party of Ontario,38,"Kanata, ON K2M 1P6, Canada",,45.2848076,-75.8700583,"45.2848076,-75.8700583",ChIJC_DTTwL_zUwR1pMiyZRvEWk,postal_code,K2M 1P6,K2M 1P6,1,OK,,435.423
+,Wayne,Gates,Male ,Constituency office,"Douglas Heights Seniors Centre
+265 High St.
+
+&nbsp;
+
+&nbsp;
+",Fort Erie,ON,L2A 3R4,wgates-co@ndp.on.ca,wgates-qp@ndp.on.ca,905-871-8868  ,905-871-4717 ,,,Niagara Falls,New Democratic Party of Ontario,39,"Fort Erie, ON L2A 3R4, Canada",,42.9118012,-78.9155639,"42.9118012,-78.9155639",ChIJyShKwnAT04kRzwj2YoFSuWY,postal_code,L2A 3R4,L2A 3R4,1,OK,,155.89
+,Wayne,Gates,Male ,Constituency office,"Unit 1
+6746 Morrison St.
+",Niagara Falls,ON,L2E 6Z8,wgates-co@ndp.on.ca,wgates-qp@ndp.on.ca,905-357-0681  ,905-357-9456  ,,,Niagara Falls,New Democratic Party of Ontario,40,"Niagara Falls, ON L2E 6Z8, Canada",,43.1035381,-79.0975136,"43.1035381,-79.0975136",ChIJxRbzkkRD04kRdvjHWi4PZ1A,postal_code,L2E 6Z8,L2E 6Z8,1,OK,,128.924
+,Goldie,Ghamari,Female ,Constituency office,"Unit 30
+6179 Perth St.
+",Richmond,ON,K0A 2Z0,,goldie.ghamari@pc.ola.org,613-838-4425,613-838-6045 ,,,Carleton,Progressive Conservative Party of Ontario,41,"Richmond, ON K0A 2Z0, Canada",,45.1496224,-75.8088814,"45.1496224,-75.80888139999999",ChIJWSmp-5DwzUwRF3fzSGCPZGY,postal_code,K0A 2Z0,K0A 2Z0,1,OK,,420.153
+,Parm,Gill,Male ,Constituency office,"Unit 206
+400 Main St. E
+",Milton,ON,L9T 4X5,,parm.gill@pc.ola.org,905-878-1729  ,905-878-5144  ,,,Milton,Progressive Conservative Party of Ontario,42,"Milton, ON L9T 4X5, Canada",,43.5172896,-79.8778959,"43.51728960000001,-79.8778959",ChIJf4s-GKFvK4gRmS9qhCJGXf0,postal_code,L9T 4X5,L9T 4X5,1,OK,,56.093
+,Chris,Glover,Male ,Constituency office,"Unit A
+226 Bathurst St.
+",Toronto,ON,M5T 2R9,CGlover-CO@ndp.on.ca,,416-603-9664  ,416-603-1214  ,,,Spadina—Fort York,New Democratic Party of Ontario,43,"Toronto, ON M5T 2R9, Canada",,43.6483766,-79.4047109,"43.6483766,-79.4047109",ChIJ37luDuc0K4gR7D_8PFiA6h4,postal_code,M5T 2R9,M5T 2R9,1,OK,,2.975
+,Michael,Gravelle,Male ,Constituency office,"179 Algoma St. S
+",Thunder Bay,ON,P7B 3C1,mgravelle.mpp.co@liberal.ola.org,,807-345-3647  ,807-345-2922  ,,,Thunder Bay—Superior North,Ontario Liberal Party,44,"Thunder Bay, ON P7B 3C1, Canada",,48.4307275,-89.2300639,"48.4307275,-89.23006389999999",ChIJkX50qS4iWU0R3xRsDN-e0gk,postal_code,P7B 3C1,P7B 3C1,1,OK,,1374.269
+,Lisa,Gretzky,Female ,Constituency office,"2443 Dougall Ave.
+",Windsor ,ON,N8X 1T3,LGretzky-CO@ndp.on.ca,LGretzky-QP@ndp.on.ca,519-977-7191 ,519-977-7029,,,Windsor West,New Democratic Party of Ontario,45,"Windsor, ON N8X 1T3, Canada",,42.288292,-83.0274102,"42.288292,-83.02741019999999",ChIJQ69OT08sO4gRLG0gX7u-dpM,postal_code,N8X 1T3,N8X 1T3,1,OK,,367.021
+,France,Gélinas,Female ,Constituency office,"Hanmer Valley Shopping Plaza
+Suite 15
+5085 Hwy. 69 N
+",Hanmer,ON,P3P 1P7,fgelinas-co@ndp.on.ca,fgelinas-qp@ndp.on.ca,705-969-3621 ,705-969-3538  ,,,Nickel Belt,New Democratic Party of Ontario,46,"Hanmer, ON P3P 1P7, Canada",,46.645687,-80.9722009,"46.645687,-80.97220089999999",ChIJ9zyprkemL00RnFrEysLqqg4,postal_code,P3P 1P7,P3P 1P7,1,OK,,406.509
+Hon.,Ernie,Hardeman,Male ,Constituency office,"2nd Floor
+12 Perry St.
+",Woodstock,ON,N4S 3C2,ernie.hardemanco@pc.ola.org,ernie.hardeman@pc.ola.org,519-537-5222,519-537-3577 ,1-800-265-4046,,Oxford,Progressive Conservative Party of Ontario,47,"12 Perry St, Woodstock, ON N4S 3C2, Canada",,43.129177,-80.7593841,"43.129177,-80.75938409999999",ChIJ0WPEek8yWkARtzeUnnRu3no,"establishment,health,hospital,point_of_interest",N4S 3C2,N4S 3C2,1,OK,,146.593
+,Joel,Harden,Male ,Constituency office,"109 Catherine St.
+",Ottawa,ON,K2P 0P4,JHarden-CO@ndp.on.ca,JHarden-QP@ndp.on.ca,613-722-6414 ,613-722-6703,,,Ottawa Centre,New Democratic Party of Ontario,48,"Ottawa, ON K2P 0P4, Canada",,45.4112418,-75.6883687,"45.4112418,-75.6883687",ChIJJR6zqLoFzkwRDzVCvNxjfOs,postal_code,K2P 0P4,K2P 0P4,1,OK,,447.733
+,Mike,Harris,Male ,Constituency office,"Unit 3 &amp; 4
+63 Arthur St. S
+",Elmira,ON,N3B 2M6,mike.harrisco@pc.ola.org,mike.harris@pc.ola.org,519-669-2090  ,519-669-0476  ,,,Kitchener—Conestoga,Progressive Conservative Party of Ontario,49,"Elmira, ON N3B 2M6, Canada",,43.5985067,-80.5585148,"43.5985067,-80.5585148",ChIJzeY-UY7uK4gRkg9U_lsVEUM,postal_code,N3B 2M6,N3B 2M6,1,OK,,127.883
+,Faisal,Hassan,Male ,Constituency office,"1965 Weston Rd.
+",Toronto,ON,M9N 1W8,FHassan-CO@ndp.on.ca,FHassan-QP@ndp.on.ca,416-243-7984 ,416-243-0327,,,York South—Weston,New Democratic Party of Ontario,50,"York, ON M9N 1W8, Canada",,43.7011134,-79.5183641,"43.7011134,-79.5183641",ChIJnabPs9kwK4gRtwkX7JdVw4A,postal_code,M9N 1W8,M9N 1W8,1,OK,,20.839
+,Percy,Hatfield,Male ,Constituency office,"Unit 1
+5452 Tecumseh Rd. E
+",Windsor,ON,N8T 1C7,PHatfield-co@ndp.on.ca,PHatfield-QP@ndp.on.ca,519-251-5199 ,519-251-5299 ,,,Windsor—Tecumseh,New Democratic Party of Ontario,51,"Windsor, ON N8T 1C7, Canada",,42.3093915,-82.9590614,"42.3093915,-82.9590614",ChIJhVTGLxorO4gR2LEjg7E-nVk,postal_code,N8T 1C7,N8T 1C7,1,OK,,364.69
+,Randy,Hillier,Male ,Constituency office,"Unit 1
+105 Dufferin St.
+",Perth,ON,K7H 3A5,RHillier-CO@ola.org,,613-267-8239 ,613-267-7398  ,,,Lanark—Frontenac—Kingston,Independent,52,"Perth, ON K7H 3A5, Canada",,44.9099759,-76.2666017,"44.9099759,-76.2666017",ChIJ65VHAI960kwRB9RNFs-oS4Y,postal_code,K7H 3A5,K7H 3A5,1,OK,,317.666
+,Christine,Hogarth,Female ,Constituency office,"Unit 21
+195 Norseman St.
+",Etobicoke,ON,M8Z 0E9,,christine.hogarth@pc.ola.org,416-259-2249  ,,,,Etobicoke—Lakeshore,Progressive Conservative Party of Ontario,53,"195 Norseman St, Etobicoke, ON M8Z 0E9, Canada",,43.633196,-79.5221963,"43.633196,-79.52219629999999",ChIJ5yhTY7Q3K4gRi4GxVZhzOG0,"establishment,point_of_interest",M8Z 0E9,M8Z 0E9,1,OK,,16.161
+,Andrea,Horwath,Female ,Constituency office,"Suite 200
+20 Hughson St. S
+",Hamilton,ON,L8N 2A1,ahorwath-co@ndp.on.ca,horwatha-qp@ndp.on.ca,905-544-9644  ,905-544-5152  ,,,Hamilton Centre,New Democratic Party of Ontario,54,"Hamilton, ON L8N 2A1, Canada",,43.2552863,-79.8684462,"43.25528629999999,-79.8684462",ChIJEwZPrISbLIgRr0apJnRnX5o,postal_code,L8N 2A1,L8N 2A1,1,OK,,69.442
+,Mitzie,Hunter,Female ,Constituency office,"Unit B1
+3785 Kingston Rd.
+",Scarborough,ON,M1J 3M4,mhunter.mpp.co@liberal.ola.org,,416-281-2787  ,416-281-2360 ,,,Scarborough—Guildwood,Ontario Liberal Party,55,"Scarborough, ON M1J 3M4, Canada",,43.7475204,-79.2073107,"43.7475204,-79.2073107",ChIJb-ng9QXQ1IkR9ReaBxPtetI,postal_code,M1J 3M4,M1J 3M4,1,OK,,30.38
+Hon.,Sylvia,Jones,Female ,Constituency office,"Suite A
+3rd Floor
+180 Broadway Ave.
+",Orangeville,ON,L9W 1K3,,sylvia.jones@pc.ola.org,519-941-7751  ,519-941-3246  ,,,Dufferin—Caledon,Progressive Conservative Party of Ontario,56,"Orangeville, ON L9W 1K3, Canada",,43.9190708,-80.0969651,"43.9190708,-80.09696509999999",ChIJ90g8kp0AK4gRkfmn7oN-PG4,postal_code,L9W 1K3,L9W 1K3,1,OK,,83.007
+,Logan,Kanapathi,Male ,Constituency office,"Unit 5
+450 Alden Rd.
+",Markham,ON,L3R 5H4,logan.kanapathico@pc.ola.org,logan.kanapathi@pc.ola.org,905-305-1935  ,905-305-1938  ,,,Markham—Thornhill,Progressive Conservative Party of Ontario,57,"Markham, ON L3R 5H4, Canada",,43.8351368,-79.3340577,"43.8351368,-79.3340577",ChIJKcRoAGPU1IkRpTU6MuXsA40,postal_code,L3R 5H4,L3R 5H4,1,OK,,24.758
+,Belinda,Karahalios,Female ,Constituency office,"Suite 101
+
+498 Eagle St. N
+",Cambridge,ON,N3H 1C2,bkarahalios-co@ola.org,bkarahalios@ola.org,519-650-2770 ,519-650-3918 ,,,Cambridge,Independent,58,"Cambridge, ON N3H 1C2, Canada",,43.4011273,-80.36108,"43.4011273,-80.36108",ChIJN33sQvOJK4gR88Goe5YQ1rA,postal_code,N3H 1C2,N3H 1C2,1,OK,,97.104
+,Bhutila,Karpoche,Female ,Constituency office,"2849 Dundas St. W
+",Toronto,ON,M6P 1Y6,BKarpoche-CO@ndp.on.ca,BKarpoche-QP@ndp.on.ca,416-763-5630 ,416-763-5640  ,,,Parkdale—High Park,New Democratic Party of Ontario,59,"Toronto, ON M6P 1Y6, Canada",,43.665201,-79.4635328,"43.665201,-79.4635328",ChIJMSkZDSI0K4gRaxDJXv6bXiQ,postal_code,M6P 1Y6,M6P 1Y6,1,OK,,7.396
+,Vincent,Ke,Male ,Constituency office,"Suite 103
+2175 Sheppard Ave. E
+",North York,ON,M2J 1W8,vincent.keco@pc.ola.org,vincent.ke@pc.ola.org,416-494-8778  ,416-494-0110  ,,,Don Valley North,Progressive Conservative Party of Ontario,60,"North York, ON M2J 1W8, Canada",,43.774299,-79.3300086,"43.774299,-79.3300086",ChIJgb36cFnS1IkRGcDfXTZcVH0,postal_code,M2J 1W8,M2J 1W8,1,OK,,18.542
+,Terence,Kernaghan,Male ,Constituency office,"Unit 105
+400 York St.
+",London,ON,N6B 3N2,TKernaghan-CO@ndp.on.ca,TKernaghan-QP@ndp.on.ca,519-432-7339,519-432-0613  ,,,London North Centre,New Democratic Party of Ontario,61,"London, ON N6B 3N2, Canada",,42.9844534,-81.2382012,"42.9844534,-81.23820119999999",ChIJ39kX1Q_yLogRUFB34rHY9KU,postal_code,N6B 3N2,N6B 3N2,1,OK,,191.902
+,Andrea,Khanjin,Female ,Constituency office,"Unit 1
+237 Mapleview Dr. E
+",Barrie,ON,L4N 0W5,andrea.khanjinco@pc.ola.org,andrea.khanjin@pc.ola.org,705-722-0575  ,705-722-8835,,,Barrie—Innisfil,Progressive Conservative Party of Ontario,62,"Barrie, ON L4N 0W5, Canada",,44.3394869,-79.6638933,"44.3394869,-79.6638933",ChIJDflQomS8KogRQjnvSjRRL8c,postal_code,L4N 0W5,L4N 0W5,1,OK,,89.161
+,Daryl,Kramp,Male ,Constituency office,"26A St. Lawrence St. W
+P.O. Box 70
+",Madoc,ON,K0K 2K0,,daryl.kramp@pc.ola.org,343-600-3310,343-600-3329  ,855-229-6676  ,,Hastings—Lennox and Addington,Progressive Conservative Party of Ontario,63,"Madoc, ON K0K 2K0, Canada",,44.7175773,-77.4338702,"44.71757729999999,-77.4338702",ChIJz88ye6I700wRA9KkYefyEAI,postal_code,K0K 2K0,K0K 2K0,1,OK,,231.627
+,Daryl,Kramp,Male ,Constituency office,"8 Dundas St. W
+",Napanee,ON,K7R 1Z4,,daryl.kramp@pc.ola.org,613-308-9625  ,613-308-9685  ,,,Hastings—Lennox and Addington,Progressive Conservative Party of Ontario,64,"Napanee, ON K7R 1Z4, Canada",,44.2466873,-76.9511632,"44.2466873,-76.9511632",ChIJyeZFkpzY14kRFW8Z6qj9cMI,postal_code,K7R 1Z4,K7R 1Z4,1,OK,,221.676
+,Natalia,Kusendova,Female ,Constituency office,"Unit 708
+10 Kingsbridge Garden Circle
+",Mississauga,ON,L5R 3K7,,natalia.kusendova@pc.ola.org,905-890-1901,,,,Mississauga Centre,Progressive Conservative Party of Ontario,65,"Mississauga, ON L5R 3K7, Canada",,43.6033253,-79.6489825,"43.60332529999999,-79.6489825",ChIJl3p8uzRHK4gRruP_rKY22lY,postal_code,L5R 3K7,L5R 3K7,1,OK,,29.652
+Hon.,Stephen,Lecce,Male ,Constituency office,"Unit 1
+2220 King Rd.
+",King City,ON,L7B 1L3,,stephen.lecce@pc.ola.org,647-560-9700  ,647-560-9701 ,,,King—Vaughan,Progressive Conservative Party of Ontario,66,"King City, ON L7B 1L3, Canada",,43.9297312,-79.5269724,"43.9297312,-79.52697239999999",ChIJyVzeeMXXKogR07nqIh-4Uco,postal_code,L7B 1L3,L7B 1L3,1,OK,,43.176
+,Laura Mae,Lindo,Female ,Constituency office,"Suite 212
+25 Frederick St.
+",Kitchener,ON,N2H 6M8,,LLindo-QP@ndp.on.ca,519-579-5460  ,519-579-2121  ,,,Kitchener Centre,New Democratic Party of Ontario,67,"Kitchener, ON N2H 6M8, Canada",,43.4496458,-80.4869641,"43.4496458,-80.4869641",ChIJZTJSnu30K4gRVp1AbcaJG9M,postal_code,N2H 6M8,N2H 6M8,1,OK,,108.116
+Hon.,Lisa,MacLeod,Female ,Constituency office,"Unit 222/3
+250B Greenbank Rd.
+",Nepean,ON,K2H 8X4,Lisa.macleodco@pc.ola.org,,613-823-2116 ,613-823-8284 ,,,Nepean,Progressive Conservative Party of Ontario,68,"Nepean, ON K2H 8X4, Canada",,45.3242643,-75.7798651,"45.3242643,-75.7798651",ChIJV5ZRpFsHzkwR3MaBQKkDY0o,postal_code,K2H 8X4,K2H 8X4,1,OK,,434.257
+,Sol,Mamakwa,Male ,Constituency office,"Unit 104
+73 King St.
+P.O. Box 176
+",Sioux Lookout,ON,P8T 1A1,SMamakwa-CO@ndp.on.ca,SMamakwa-QP@ndp.on.ca,807-737-2210 ,807-737-1592,1-888-444-1723,,Kiiwetinoong,New Democratic Party of Ontario,69,"Sioux Lookout, ON P8T 1A1, Canada",,50.0976744,-91.9185249,"50.0976744,-91.9185249",ChIJBajqOrybmFIRTL8_ZU2aK8Q,postal_code,P8T 1A1,P8T 1A1,1,OK,,1751.472
+,Michael,Mantha,Male ,Constituency office,"14 George Walk
+",Elliot Lake,ON,P5A 2A4,mmantha-co@ndp.on.ca,mmantha-qp@ndp.on.ca,705-461-9710 ,705-461-9720,1-800-831-1899   ,,Algoma—Manitoulin,New Democratic Party of Ontario,70,"Elliot Lake, ON P5A 2A4, Canada",,46.3858291,-82.6472552,"46.3858291,-82.64725519999999",ChIJU4hkXkUOMU0RVx2l-iXGHKI,postal_code,P5A 2A4,P5A 2A4,1,OK,,538.626
+,Robin,Martin,Female ,Constituency office,"2882 Dufferin St.
+",Toronto,ON,M6B 3S6,robin.martinco@pc.ola.org,robin.martin@pc.ola.org, 416-781-2395  ,416-781-4116  ,,,Eglinton—Lawrence,Progressive Conservative Party of Ontario,71,"North York, ON M6B 3S6, Canada",,43.7075638,-79.4536878,"43.7075638,-79.4536878",ChIJVXP__MMzK4gRIF4aHn6uo8c,postal_code,M6B 3S6,M6B 3S6,1,OK,,9.846
+,Gila,Martow,Female ,Constituency office,"Centre Street Square
+Unit 4
+1136 Centre St.
+",Thornhill,ON,L4J 3M8,gila.martowco@pc.ola.org,gila.martow@pc.ola.org,905-731-8462,905-731-2984 ,,,Thornhill,Progressive Conservative Party of Ontario,72,"Thornhill, ON L4J 3M8, Canada",,43.8090179,-79.4608958,"43.8090179,-79.4608958",ChIJP_AcQCUsK4gRzdkPG74jMZc,postal_code,L4J 3M8,L4J 3M8,1,OK,,20.847
+,Jim,McDonell,Male ,Constituency office,"Time Square
+120 Second St. W
+",Cornwall,ON,K6J 1G5,jim.mcdonellco@pc.ola.org,jim.mcdonell@pc.ola.org,613-933-6513,613-933-6449   ,,,Stormont—Dundas—South Glengarry,Progressive Conservative Party of Ontario,73,"Cornwall, ON K6J 1G5, Canada",,45.0168215,-74.7317206,"45.0168215,-74.7317206",ChIJ0zNzIk4XzEwRoXg8rxiMzrg,postal_code,K6J 1G5,K6J 1G5,1,OK,,434.399
+,Jane,McKenna,Female ,Constituency office,"Unit 104
+472 Brock Ave.
+",Burlington,ON,L7S 1N1,,jane.mckenna@pc.ola.org,905-639-7924,905-639-3284 ,,,Burlington,Progressive Conservative Party of Ontario,74,"Burlington, ON L7S 1N1, Canada",,43.3214745,-79.8035834,"43.3214745,-79.8035834",ChIJlQhAJTyeLIgRjksFprJbLqs,postal_code,L7S 1N1,L7S 1N1,1,OK,,60.672
+Hon.,Monte,McNaughton,Male ,Constituency office,"360 James St.
+",Wallaceburg,ON,N8A 2N5,,, 519-627-1015   , 519-627-7174 ,,,Lambton—Kent—Middlesex,Progressive Conservative Party of Ontario,75,"Wallaceburg, ON N8A 2N5, Canada",,42.5946352,-82.3832408,"42.5946352,-82.3832408",ChIJNX2q2EtdJYgRGLvr327gPag,postal_code,N8A 2N5,N8A 2N5,1,OK,,309.399
+Hon.,Monte,McNaughton,Male ,Constituency office,"81 Front St. W
+",Strathroy,ON,N7G 1X6,monte.mcnaughtonco@pc.ola.org,,519-245-8696,519-245-8697 ,,,Lambton—Kent—Middlesex,Progressive Conservative Party of Ontario,76,"Strathroy, ON N7G 1X6, Canada",,42.9579859,-81.625942,"42.9579859,-81.625942",ChIJoz0ThD0EL4gR_2VwRtpkrfQ,postal_code,N7G 1X6,N7G 1X6,1,OK,,228.082
+,Norman,Miller,Male ,Constituency office,"26 James St.
+",Parry Sound,ON,P2A 1T5,,norm.miller@pc.ola.org,705-746-4266  ,705-746-1578   ,1-888-701-1176 ,,Parry Sound—Muskoka,Progressive Conservative Party of Ontario,77,"Parry Sound, ON P2A 1T5, Canada",,45.3446231,-80.0341747,"45.3446231,-80.0341747",ChIJ8xTEmpK6K00RYMkmlhWAxUw,postal_code,P2A 1T5,P2A 1T5,1,OK,,226.285
+,Norman,Miller,Male ,Constituency office,"Unit 1
+165 Manitoba St.
+",Bracebridge,ON,P1L 1S3,,norm.miller@pc.ola.org,705-645-8538,705-645-8148 ,1-888-267-4826   ,,Parry Sound—Muskoka,Progressive Conservative Party of Ontario,78,"Bracebridge, ON P1L 1S3, Canada",,45.0441401,-79.3158688,"45.0441401,-79.31586879999999",ChIJtcfZ1_SGKk0ROctZjKZKHA8,postal_code,P1L 1S3,P1L 1S3,1,OK,,184.737
+,Paul,Miller,Male ,Constituency office,"289 Queenston Rd.
+",Hamilton,ON,L8K 1H2,pmiller-co@ndp.on.ca,pmiller-qp@ndp.on.ca,905-545-0114,905-545-9024   ,,,Hamilton East—Stoney Creek,New Democratic Party of Ontario,79,"Hamilton, ON L8K 1H2, Canada",,43.234323,-79.7914108,"43.234323,-79.7914108",ChIJdbO8WxmZLIgR-vohIP7J6o8,postal_code,L8K 1H2,L8K 1H2,1,OK,,70.947
+,Christina,Mitas,Female ,Constituency office,"2063 Lawrence Ave. E
+",Scarborough,ON,M1R 2Z4,christina.mitasco@pc.ola.org,christina.mitas@pc.ola.org,416-615-2183,416-615-2011,,,Scarborough Centre,Progressive Conservative Party of Ontario,80,"Scarborough, ON M1R 2Z4, Canada",,43.7457269,-79.2921506,"43.7457269,-79.29215060000001",ChIJ7fgmfQDS1IkRJ4tq_TT-Tes,postal_code,M1R 2Z4,M1R 2Z4,1,OK,,16.386
+,Judith,Monteith-Farrell,Female ,Constituency office,"409 George St.
+",Thunder Bay,ON,P7E 5Y9,JMonteith-Farrell-CO@ndp.on.ca,JMonteith-Farrell-QP@ndp.on.ca,807-622-1920,807-622-3263 ,1-833-673-4129 ,,Thunder Bay—Atikokan,New Democratic Party of Ontario,81,"Thunder Bay, ON P7E 5Y9, Canada",,48.3834759,-89.2437775,"48.3834759,-89.2437775",ChIJBaTGjk4fWU0RnuFyl3b-0ag,postal_code,P7E 5Y9,P7E 5Y9,1,OK,,1379.414
+,Judith,Monteith-Farrell,Female ,Constituency office,"Suite 105
+105 Main St. E
+P.O. Box 1886
+",Atikokan,ON,P0T 1C0,,JMonteith-Farrell-QP@ndp.on.ca,807-597-2629,807-597-2402,,,Thunder Bay—Atikokan,New Democratic Party of Ontario,82,"Atikokan, ON P0T 1C0, Canada",,48.757646,-91.6205159,"48.757646,-91.6205159",ChIJo1cNDPL2o1IR5vrunV3sHvs,postal_code,P0T 1C0,P0T 1C0,1,OK,,1566.093
+,Suze,Morrison,Female ,Constituency office,"329 Parliament St.
+",Toronto,ON,M5A 2Z3,SMorrison-CO@ndp.on.ca,SMorrison-QP@ndp.on.ca,416-972-7683,416-972-7686,,,Toronto Centre,New Democratic Party of Ontario,83,"Toronto, ON M5A 2Z3, Canada",,43.659714,-79.3658275,"43.659714,-79.36582750000001",ChIJEyO-_kbL1IkRa5Ex3wBf3PU,postal_code,M5A 2Z3,M5A 2Z3,1,OK,,2.881
+Hon.,Caroline,Mulroney,Female ,Constituency office,"Unit 8
+45 Grist Mill Rd.
+",Holland Landing,ON,L9N 1M7,caroline.mulroneyco@pc.ola.org,caroline.mulroney@pc.ola.org,905-895-1555   ,905-895-0337 ,,,York—Simcoe,Progressive Conservative Party of Ontario,84,"Holland Landing, ON L9N 1M7, Canada",,44.0983531,-79.4733767,"44.0983531,-79.4733767",ChIJm3_83n7OKogRIFQDrAFwFfM,postal_code,L9N 1M7,L9N 1M7,1,OK,,59.586
+,Taras,Natyshak,Male ,Constituency office,"316 Talbot St. N
+",Essex,ON,N8M 2E1,,tnatyshak-qp@ndp.on.ca,519-776-6420 ,519-776-6980   , 1-800-265-3909  ,,Essex,New Democratic Party of Ontario,85,"Essex, ON N8M 2E1, Canada",,42.1787312,-82.828045,"42.1787312,-82.828045",ChIJC9hIQlPXOogRgWVWihbIU94,postal_code,N8M 2E1,N8M 2E1,1,OK,,354.957
+,Rick,Nicholls,Male ,Constituency office,"Suite 100
+111 Heritage Rd.
+",Chatham,ON,N7M 5W7,rick.nichollsco@pc.ola.org,rick.nicholls@pc.ola.org,519-351-0510   ,519-351-7714 ,1-800-265-3992   ,,Chatham-Kent—Leamington,Progressive Conservative Party of Ontario,86,"Chatham, ON N7M 5W7, Canada",,42.3914928,-82.2099338,"42.39149279999999,-82.2099338",ChIJ6QIefpz4L4gRjEQ4LgU5714,postal_code,N7M 5W7,N7M 5W7,1,OK,,297.686
+,Rick,Nicholls,Male ,Constituency office,"Unit B
+115 Erie St. N
+",Leamington,ON,,,rick.nicholls@pc.ola.org,519-326-3367 ,519-326-0404   ,,,Chatham-Kent—Leamington,Progressive Conservative Party of Ontario,87,"125 SE 3rd Ave, Hillsboro, OR 97123, USA",,45.522208,-122.9863281,"45.522208,-122.9863281",ChIJa60T4zQOlVQRtF4iy0mqCpU,"clothing_store,establishment,point_of_interest,store",97123,,1,OK,,4253.904
+,Sam,Oosterhoff,Male ,Constituency office,"Unit M1
+4961 King St. E.
+",Beamsville,ON,L0R 1B0,sam.oosterhoffco@pc.ola.org,sam.oosterhoff@pc.ola.org,905-563-1755,905-563-1317,,,Niagara West,Progressive Conservative Party of Ontario,88,"Beamsville, ON L0R 1B0, Canada",,43.1895713,-79.4774195,"43.1895713,-79.4774195",ChIJdWuuKQOuLIgRBQOaQLuqglU,postal_code,L0R 1B0,L0R 1B0,1,OK,,93.631
+,Billy,Pang,Male ,Constituency office,"Unit 602
+3601 Hwy. 7 E
+",Markham,ON,L3R 0M3,billy.pangco@pc.ola.org,billy.pang@pc.ola.org,905-474-3288,905-474-2878,,,Markham—Unionville,Progressive Conservative Party of Ontario,89,"Markham, ON L3R 0M3, Canada",,43.8538977,-79.3380185,"43.8538977,-79.33801849999999",ChIJZR_UxPnU1IkRXl8dWCjod-0,postal_code,L3R 0M3,L3R 0M3,1,OK,,29.134
+,Lindsey,Park,Female ,Constituency office,"23 King St. W
+",Bowmanville,ON,L1C 1R2,lindsey.parkco@pc.ola.org,lindsey.park@pc.ola.org,905-697-1501,905-697-1506,,,Durham,Progressive Conservative Party of Ontario,90,"Bowmanville, ON L1C 1R2, Canada",,43.9122394,-78.6903947,"43.9122394,-78.6903947",ChIJfxfrpdIA1YkRQRtGyAGSGpc,postal_code,L1C 1R2,L1C 1R2,1,OK,,75.836
+,Michael,Parsa,Male ,Constituency office,"Suite 201
+13085 Yonge St.
+",Richmond Hill,ON,L4E 3S8,michael.parsaco@pc.ola.org,,905-773-6250,905-773-8158,888-486-5352,,Aurora—Oak Ridges—Richmond Hill,Progressive Conservative Party of Ontario,91,"Richmond Hill, ON L4E 3S8, Canada",,43.9476618,-79.4547427,"43.9476618,-79.4547427",ChIJazFUuczVKogRB7dJgwYzXYQ,postal_code,L4E 3S8,L4E 3S8,1,OK,,44.085
+,Randy,Pettapiece,Male ,Constituency office,"Unit 2
+55 Lorne Ave. E
+",Stratford,ON,N5A 6S4,randy.pettapiececo@pc.ola.org,randy.pettapiece@pc.ola.org,519-272-0660, 519-272-1064,,,Perth—Wellington,Progressive Conservative Party of Ontario,92,"Stratford, ON N5A 6S4, Canada",,43.3439972,-80.9815817,"43.3439972,-80.98158169999999",ChIJ81lUjeKxLogRTMz_xhB0t0Q,postal_code,N5A 6S4,N5A 6S4,1,OK,,152.723
+Hon.,Rod,Phillips,Male ,Constituency office,"Suite 209
+1 Rossland Rd. W
+",Ajax,ON,L1Z 1Z2,rod.phillipsco@pc.ola.org,rod.phillips@pc.ola.org,905-427-2060,905-427-6976,,,Ajax,Progressive Conservative Party of Ontario,93,"Ajax, ON L1Z 1Z2, Canada",,43.8783769,-79.0331639,"43.8783769,-79.03316389999999",ChIJpWwtAw8g1YkR-MolrQzO_M8,postal_code,L1Z 1Z2,L1Z 1Z2,1,OK,,46.609
+,David,Piccini,Male ,Constituency office,"117 Peter St.
+",Port Hope,ON,L1A 1C5,,david.piccini@pc.ola.org,905-372-4000,905-885-0050,,,Northumberland—Peterborough South,Progressive Conservative Party of Ontario,94,"Port Hope, ON L1A 1C5, Canada",,43.9496601,-78.283029,"43.9496601,-78.283029",ChIJO2NR3vzH1YkRzsnsgDb6y6s,postal_code,L1A 1C5,L1A 1C5,1,OK,,108.523
+,Tom,Rakocevic,Male ,Constituency office,"Unit 38
+2300 Finch Ave. W
+",North York,ON,M9M 2Y3,TRakocevic-CO@ndp.on.ca,TRakocevic-QP@ndp.on.ca,416-743-7272,416-743-3292,,,Humber River—Black Creek,New Democratic Party of Ontario,95,"North York, ON M9M 2Y3, Canada",,43.7536758,-79.5422546,"43.7536758,-79.54225459999999",ChIJ4W9_IxQwK4gRh_5lJ3DljxQ,postal_code,M9M 2Y3,M9M 2Y3,1,OK,,22.705
+,Kaleed,Rasheed,Male ,Constituency office,"Unit 315
+1420 Burnhamthorpe Rd. E
+",Mississauga,ON,L4X 2Z9,kaleed.rasheedco@pc.ola.org,kaleed.rasheed@pc.ola.org,905-238-1751,905-238-4918 ,,,Mississauga East—Cooksville,Progressive Conservative Party of Ontario,96,"Mississauga, ON L4X 2Z9, Canada",,43.6233121,-79.6012513,"43.6233121,-79.6012513",ChIJz5wcQH84K4gRLzeOcZRZQpU,postal_code,L4X 2Z9,L4X 2Z9,1,OK,,23.662
+Hon.,Greg,Rickford,Male ,Constituency office,"300 McClellan Ave. East Room
+",Kenora,ON,P9N 1A8,,greg.rickford@pc.ola.org,807-467-2415,807-467-2641, 1-800-465-8501,,Kenora—Rainy River,Progressive Conservative Party of Ontario,97,"Kenora, ON P9N 1A8, Canada",,49.7677972,-94.4877559,"49.7677972,-94.4877559",ChIJO03F2YEIvlIR76dNCNzde0M,postal_code,P9N 1A8,P9N 1A8,1,OK,,1848.458
+Hon.,Greg,Rickford,Male ,Constituency office,"Unit 1
+279 Scott St.
+",Fort Frances,ON,P9A 1G8,,greg.rickford@pc.ola.org,807-274-7619,807-274-3721,,,Kenora—Rainy River,Progressive Conservative Party of Ontario,98,"Fort Frances, ON P9A 1G8, Canada",,48.6097409,-93.3972567,"48.6097409,-93.3972567",ChIJTa_Ej0J8u1IR5iBtdOQkA84,postal_code,P9A 1G8,P9A 1G8,1,OK,,1695.272
+Hon.,Greg,Rickford,Male ,Constituency office,"Unit 2
+439 Government St.
+",Dryden,ON,P8N 2P4,,greg.rickford@pc.ola.org,807-223-6456,807-223-6593,1-800-465-8501,,Kenora—Rainy River,Progressive Conservative Party of Ontario,99,"Dryden, ON P8N 2P4, Canada",,49.7875846,-92.83193,"49.7875846,-92.83193",ChIJv48SPTCyolIR1uE4IN8xKfU,postal_code,P8N 2P4,P8N 2P4,1,OK,,1711.358
+,Jeremy,Roberts,Male ,Constituency office,"Unit 500
+1580 Merivale Rd.
+",Nepean,ON,K2G 4B5,,jeremy.roberts@pc.ola.org,613-721-8075,613-721-5756,,,Ottawa West—Nepean,Progressive Conservative Party of Ontario,100,"Nepean, ON K2G 4B5, Canada",,45.3512685,-75.7343479,"45.3512685,-75.7343479",ChIJD-SSyv8GzkwRT2t1D9gHRZk,postal_code,K2G 4B5,K2G 4B5,1,OK,,443.737
+Hon.,Ross,Romano,Male ,Constituency office,"Suite 102
+390 Bay St.
+",Sault Ste Marie,ON,P6A 1X2,ross.romanoco@pc.ola.org,ross.romano@pc.ola.org,705-949-6959,705-946-6269,,,Sault Ste. Marie,Progressive Conservative Party of Ontario,101,"Sault Ste. Marie, ON P6A 1X2, Canada",,46.5113018,-84.3344116,"46.5113018,-84.3344116",ChIJFwSQfbU5Nk0R4Ei3ahMEnDQ,postal_code,P6A 1X2,P6A 1X2,1,OK,,685.254
+,Sheref,Sabawy,Male ,Constituency office,"Unit 40
+4181 Sladeview Cres
+",Mississauga,ON,L5L 5R2,,sheref.sabawy@pc.ola.org,905-820-8851,905-820-4307,,,Mississauga—Erin Mills,Progressive Conservative Party of Ontario,102,"Mississauga, ON L5L 5R2, Canada",,43.5311949,-79.7172011,"43.5311949,-79.7172011",ChIJn4M-4WlCK4gRZE9qOc6oLVI,postal_code,L5L 5R2,L5L 5R2,1,OK,,38.312
+,Amarjot,Sandhu,Male ,Constituency office,"Unit 309
+10 Gillingham Dr.
+",Brampton,ON,L6X 0G6,amarjot.sandhuco@pc.ola.org,amarjot.sandhu@pc.ola.org,905-595-1532,905-457-8496,,,Brampton West,Progressive Conservative Party of Ontario,103,"Brampton, ON L6X 0G6, Canada",,43.7037245,-79.7858932,"43.7037245,-79.78589319999999",ChIJZ_D_uTIUK4gRt1SVCrvrd-s,postal_code,L6X 0G6,L6X 0G6,1,OK,,47.93
+Hon.,Prabmeet Singh,Sarkaria,Male ,Constituency office,"Unit 412A
+7700 Hurontario St.
+",Brampton,ON,L6Y 4M3,,prabmeet.sarkaria@pc.ola.org,905-796-8669, 905-796-8069,,,Brampton South,Progressive Conservative Party of Ontario,104,"Brampton, ON L6Y 4M3, Canada",,43.6591282,-79.7256152,"43.6591282,-79.72561520000001",ChIJ14dgqMU_K4gRDuMNsXgYtcg,postal_code,L6Y 4M3,L6Y 4M3,1,OK,,40.24
+,Peggy,Sattler,Female ,Constituency office,"Unit 101
+240 Commissioners Rd. W
+",London,ON,N6J 1Y1,Psattler-co@ndp.on.ca,Psattler-qp@ndp.on.ca,519-657-3120,519-657-0368,,,London West,New Democratic Party of Ontario,105,"London, ON N6J 1Y1, Canada",,42.956146,-81.2713267,"42.956146,-81.2713267",ChIJDekEp3XxLogRgDUYfespgQA,postal_code,N6J 1Y1,N6J 1Y1,1,OK,,193.276
+,Mike,Schreiner,Male ,Constituency office,"173 Woolwich St.
+",Guelph,ON,N1H 3V4,mschreiner-co@ola.org,Mschreiner@ola.org,519-836-4190,519-836-4191,,,Guelph,Green Party of Ontario,106,"Guelph, ON N1H 3V4, Canada",,43.548522,-80.2528669,"43.548522,-80.2528669",ChIJzTQs5eqaK4gRgtutd1_Slpw,postal_code,N1H 3V4,N1H 3V4,1,OK,,95.602
+Hon.,Laurie,Scott,Female ,Constituency office,"14 Lindsay St. N
+",Lindsay,ON,K9V 1T4,laurie.scottco@pc.ola.org,laurie.scott@pc.ola.org,705-324-6654,,1-800-424-2490,,Haliburton—Kawartha Lakes—Brock,Progressive Conservative Party of Ontario,107,"Lindsay, ON K9V 1T4, Canada",,44.3569073,-78.7349559,"44.3569073,-78.7349559",ChIJS-LOHUV51YkRdszyGD5Gb5s,postal_code,K9V 1T4,K9V 1T4,1,OK,,131.609
+,Sandy,Shaw,Female ,Constituency office,"177 King St. W
+",Dundas,ON,L9H 1V3,,SShaw-CO@ndp.on.ca,905-628-2755,905-628-1280,,,Hamilton West—Ancaster—Dundas,New Democratic Party of Ontario,108,"Dundas, ON L9H 1V3, Canada",,43.267261,-79.9603627,"43.267261,-79.96036269999999",ChIJCzArwZ2ELIgRMqG80wje_Lg,postal_code,L9H 1V3,L9H 1V3,1,OK,,72.299
+,Amanda,Simard,Female ,Constituency office,"290A McGill St.
+",Hawkesbury,ON,K6A 1P8,,,613-632-2706,613-632-1554,1-800-294-8250,,Glengarry—Prescott—Russell,Ontario Liberal Party,109,"290 McGill St, Hawkesbury, ON K6A 1P8, Canada",,45.608208,-74.614413,"45.608208,-74.614413",ChIJgd7lMErvzkwRTmSoJOFvrqc,"establishment,point_of_interest",K6A 1P8,K6A 1P8,1,OK,,504.632
+,Gurratan,Singh,Male ,Constituency office,"Unit 307
+1 Gateway Blvd.
+",Brampton,ON,L6T 0G3,GSingh-CO@ndp.on.ca,GSingh-QP@ndp.on.ca,905-799-3939,905-799-9505,,,Brampton East,New Democratic Party of Ontario,110,"Brampton, ON L6T 0G3, Canada",,43.7380946,-79.7008693,"43.7380946,-79.7008693",ChIJ9ZZFgq49K4gRNq6CSb87meM,postal_code,L6T 0G3,L6T 0G3,1,OK,,42.703
+,Sara,Singh,Female ,Constituency office,"Lakeridge Plaza
+Unit 12
+456 Vodden St. E.
+",Brampton,ON,L6S 5Y7,SSingh-CO@ndp.on.ca,SSingh-QP@ndp.on.ca,905-454-1233,905-454-8292,,,Brampton Centre,New Democratic Party of Ontario,111,"Brampton, ON L6S 5Y7, Canada",,43.7135754,-79.7422658,"43.7135754,-79.7422658",ChIJHf-qIQcWK4gR9aawAkh9WCA,postal_code,L6S 5Y7,L6S 5Y7,1,OK,,45.048
+,Donna,Skelly,Female ,Constituency office,"Suite 104
+2000 Garth St.
+",Hamilton,ON,L9B 0C1,,donna.skelly@pc.ola.org,905-679-3770,905-679-0288,,,Flamborough—Glanbrook,Progressive Conservative Party of Ontario,112,"Hamilton, ON L9B 0C1, Canada",,43.2016177,-79.9155971,"43.2016177,-79.9155971",ChIJlQJnYayaLIgRYXMqnBah_P4,postal_code,L9B 0C1,L9B 0C1,1,OK,,80.34
+,Dave,Smith,Male ,Constituency office,"Unit 4
+1123 Water St.
+",Peterborough,ON,K9H 3P7,,dave.smith@pc.ola.org,705-742-3777,705-742-1822,,,Peterborough—Kawartha,Progressive Conservative Party of Ontario,113,"Peterborough, ON K9H 3P7, Canada",,44.3321745,-78.3164747,"44.3321745,-78.3164747",ChIJkSVwgmeL1YkRouAFcOhSAFM,postal_code,K9H 3P7,K9H 3P7,1,OK,,140.955
+Hon.,Todd,Smith,Male ,Constituency office,"Unit D
+5503 Hwy. 62 S
+P.O. Box 6-2
+",Belleville,ON,K8N 0L5,todd.smithco@pc.ola.org,,613-962-1144,613-969-6381,,,Bay of Quinte,Progressive Conservative Party of Ontario,114,"15 Prince Edward Rd 3, Belleville, ON K8N 0L5, Canada",,44.1416692,-77.3852924,"44.1416692,-77.3852924",ChIJH1CiYKQ61okRBu6oFSUOraE,"clothing_store,establishment,point_of_interest,store",K8N 0L5,K8N 0L5,1,OK,,188.853
+,Jennifer (Jennie),Stevens,Female ,Constituency office,"Unit B
+209 Carlton St.
+",St. Catharines,ON,L2R 1S1,JStevens-CO@ndp.on.ca,,905-935-0018,905-935-0191,,,St. Catharines,New Democratic Party of Ontario,115,"St. Catharines, ON L2R 1S1, Canada",,43.1732535,-79.2489914,"43.1732535,-79.2489914",ChIJY3QPHgJR04kRJkLUeC-cpaY,postal_code,L2R 1S1,L2R 1S1,1,OK,,112.001
+,Marit,Stiles,Female ,Constituency office,"1199 Bloor St. W
+",Toronto,ON,M6H 1N4,MStiles-CO@ndp.on.ca,MStiles-QP@ndp.on.ca,416-535-3158,416-535-6587,,,Davenport,New Democratic Party of Ontario,116,"Toronto, ON M6H 1N4, Canada",,43.6587593,-79.4397096,"43.6587593,-79.4397096",ChIJA0BlcUU0K4gRGjK46pDIzxU,postal_code,M6H 1N4,M6H 1N4,1,OK,,4.81
+Hon.,Kinga,Surma,Female ,Constituency office,"Lloydmanor Shopping Centre
+Unit 102
+201 Lloyd Manor Rd.
+",Etobicoke,ON,M9B 6H6,,kinga.surma@pc.ola.org,416-234-2800,416-234-2276,,,Etobicoke Centre,Progressive Conservative Party of Ontario,117,"Etobicoke, ON M9B 6H6, Canada",,43.6751313,-79.5564805,"43.6751313,-79.55648049999999",ChIJDeghIl43K4gR0WoGlgkhU94,postal_code,M9B 6H6,M9B 6H6,1,OK,,25.506
+,Peter,Tabuns,Male ,Constituency office,"923 Danforth Ave.
+",Toronto,ON,M4J 1L8,tabunsp-co@ndp.on.ca,tabunsp-qp@ndp.on.ca,416-461-0223,416-461-9542,,,Toronto—Danforth,New Democratic Party of Ontario,118,"Toronto, ON M4J 1L8, Canada",,43.6798644,-79.3388986,"43.6798644,-79.3388986",ChIJFzoZ74bM1IkRdd8PPIfQ4a4,postal_code,M4J 1L8,M4J 1L8,1,OK,,5.188
+,Nina,Tangri,Female ,Constituency office,"Unit 110
+154 Queen St. S
+",Mississauga,ON,L5M 2P4,,nina.tangri@pc.ola.org,905-569-1643,905-569-6416,,,Mississauga—Streetsville,Progressive Conservative Party of Ontario,119,"Mississauga, ON L5M 2P4, Canada",,43.582232,-79.7151851,"43.582232,-79.7151851",ChIJZwMM97hBK4gRr6vSNADrpJs,postal_code,L5M 2P4,L5M 2P4,1,OK,,43.702
+,Monique,Taylor,Female ,Constituency office,"Unit 202
+555 Concession St.
+",Hamilton,ON,L8V 1A8,mtaylor-co@ndp.on.ca,mtaylor-qp@ndp.on.ca,905-388-9734,905-388-7862,,,Hamilton Mountain,New Democratic Party of Ontario,120,"Hamilton, ON L8V 1A8, Canada",,43.2410669,-79.8516442,"43.2410669,-79.8516442",ChIJ-yCUh8CbLIgR2fFI1MaA2EM,postal_code,L8V 1A8,L8V 1A8,1,OK,,72.944
+,Vijay,Thanigasalam,Male ,Constituency office,"Unit 105
+8130 Sheppard Ave. E
+",Toronto,ON,M1B 3W3,,vijay.thanigasalam@pc.ola.org,416-283-8448,416-283-1597,,,Scarborough—Rouge Park,Progressive Conservative Party of Ontario,121,"Scarborough, ON M1B 3W3, Canada",,43.8027874,-79.1984082,"43.8027874,-79.1984082",ChIJpyS52wfa1IkRUplPQZLOrgQ,postal_code,M1B 3W3,M1B 3W3,1,OK,,29.196
+Hon.,Lisa,Thompson,Female ,Constituency office,"408 Queen St.
+P.O. Box 426
+",Blyth,ON,N0M 1H0,lisa.thompsonco@pc.ola.org,lisa.thompson@pc.ola.org,519-523-4251,226-523-9296,,,Huron—Bruce,Progressive Conservative Party of Ontario,122,"Blyth, ON N0M 1H0, Canada",,43.7417616,-81.3729372,"43.7417616,-81.3729372",ChIJEX4exeAqL4gRUU25CiBpd-Y,postal_code,N0M 1H0,N0M 1H0,1,OK,,198.416
+Hon.,Lisa,Thompson,Female ,Constituency office,"Unit 2
+807 Queen St.
+",Kincardine,ON,N2Z 2Y2,lisa.thompsonco@pc.ola.org,lisa.thompson@pc.ola.org,519-396-3007,519-396-3011,1-866-396-3007,,Huron—Bruce,Progressive Conservative Party of Ontario,123,"Kincardine, ON N2Z 2Y2, Canada",,44.1798483,-81.633305,"44.1798483,-81.633305",ChIJ7-ZiwTpRKIgROpOU0OJ5CEM,postal_code,N2Z 2Y2,N2Z 2Y2,1,OK,,222.122
+Hon.,Michael A.,Tibollo,Male ,Constituency office,"Unit 3
+5100 Rutherford Rd.
+",Woodbridge,ON,L4H 2J2,michael.tibolloCO@pc.ola.org,,905-893-4428,905-893-4537,,,Vaughan—Woodbridge,Progressive Conservative Party of Ontario,124,"Woodbridge, ON L4H 2J2, Canada",,43.8173234,-79.602129,"43.8173234,-79.60212899999999",ChIJX9y7YqwlK4gRQHvsseze4CU,postal_code,L4H 2J2,L4H 2J2,1,OK,,34.778
+,Effie J.,Triantafilopoulos,Female ,Constituency office,"Unit 570
+2525 Old Bronte Rd.
+",Oakville,ON,L6M 4J2,,effie.triantafilopoulos@pc.ola.org,905-825-2455,905-825-0663,,,Oakville North—Burlington,Progressive Conservative Party of Ontario,125,"Oakville, ON L6M 4J2, Canada",,43.4347997,-79.7743314,"43.4347997,-79.7743314",ChIJTcIhZBtnK4gRfYF8JSHJRHo,postal_code,L6M 4J2,L6M 4J2,1,OK,,49.239
+,John,Vanthof,Male ,Constituency office,"2nd Floor
+193 King St.
+",Sturgeon Falls,ON,P2B 1R8,jvanthof-co@ndp.on.ca,jvanthof-qp@ndp.on.ca,705-753-0200,705-753-0800,,,Timiskaming—Cochrane,New Democratic Party of Ontario,126,"Sturgeon Falls, ON P2B 1R8, Canada",,46.3676478,-79.9297596,"46.3676478,-79.9297596",ChIJE76GI7EgKU0R6rghKUgc0YQ,postal_code,P2B 1R8,P2B 1R8,1,OK,,381.029
+,John,Vanthof,Male ,Constituency office,"63B Government Rd. W
+",Kirkland Lake,ON,P2N 2E6,jvanthof-co@ndp.on.ca,jvanthof-qp@ndp.on.ca,705-567-4650,705-567-4208,,,Timiskaming—Cochrane,New Democratic Party of Ontario,127,"Kirkland Lake, ON P2N 2E6, Canada",,48.1482846,-80.0381215,"48.1482846,-80.0381215",ChIJt-GYmuxyJE0Rznerp98qV6k,postal_code,P2N 2E6,P2N 2E6,1,OK,,583.828
+,John,Vanthof,Male ,Constituency office,"Pinewoods Centre
+Unit 5
+247 Whitewood Ave.
+P.O. Box 398
+",New Liskeard,ON,P0J 1P0,jvanthof-co@ndp.on.ca,jvanthof-qp@ndp.on.ca,705-647-5995,705-647-1976,,,Timiskaming—Cochrane,New Democratic Party of Ontario,128,"New Liskeard, ON P0J 1P0, Canada",,47.5139132,-79.8761681,"47.5139132,-79.8761681",ChIJ8WDSWPB7Jk0RQcn-iCc1PFY,postal_code,P0J 1P0,P0J 1P0,1,OK,,517.346
+,Daisy,Wai,Female ,Constituency office,"Suite 409
+9555 Yonge St.
+",Richmond Hill,ON,L4C 9M5,daisy.waico@pc.ola.org,daisy.wai@pc.ola.org,905-884-8080,905-884-1040,,,Richmond Hill,Progressive Conservative Party of Ontario,129,"Richmond Hill, ON L4C 9M5, Canada",,43.8597247,-79.4341705,"43.8597247,-79.4341705",ChIJMUHb-aQrK4gR9e9SqrB-DDU,postal_code,L4C 9M5,L4C 9M5,1,OK,,32.49
+Hon.,Bill,Walker,Male ,Constituency office,"Suite 100
+920 1st Ave. W
+",Owen Sound,ON,N4K 4K5,bill.walkerco@pc.ola.org,bill.walker@pc.ola.org,519-371-2421,519-371-0953,1-800-461-2664,,Bruce—Grey—Owen Sound,Progressive Conservative Party of Ontario,130,"Owen Sound, ON N4K 4K5, Canada",,44.5665916,-80.9448779,"44.5665916,-80.9448779",ChIJZ59ZJYD8KYgRDRt861dmef4,postal_code,N4K 4K5,N4K 4K5,1,OK,,190.869
+,Jamie,West,Male ,Constituency office,"Unit 4B
+555 Barrydowne Rd.
+",Sudbury,ON,P3A 3T4,JWest-CO@ndp.on.ca,JWest-QP@ndp.on.ca,705-675-1914,705-675-1456,,,Sudbury,New Democratic Party of Ontario,131,"Sudbury, ON P3A 3T4, Canada",,46.5085815,-80.9448783,"46.5085815,-80.9448783",ChIJ222WooYAL00R8NosFZTtfYo,postal_code,P3A 3T4,P3A 3T4,1,OK,,394.489
+,Jim,Wilson,Male ,Constituency office,"50 Hume St.
+",Collingwood,ON,L9Y 1V2,,,705-446-1090,705-446-3397,,,Simcoe—Grey,Independent,132,"Collingwood, ON L9Y 1V2, Canada",,44.4954254,-80.2153126,"44.49542539999999,-80.21531259999999",ChIJj8hXX8N7KogRZx7FFgpxGzU,postal_code,L9Y 1V2,L9Y 1V2,1,OK,,147.117
+,Jim,Wilson,Male ,Constituency office,"Suite 28
+180 Parsons Rd.
+",Alliston,ON,L9R 1E8,,,705-435-4087,705-435-1051,,,Simcoe—Grey,Independent,133,"Alliston, ON L9R 1E8, Canada",,44.1469608,-79.8534821,"44.1469608,-79.8534821",ChIJ7WbYVujuKogRVhkTAh6tq9k,postal_code,L9R 1E8,L9R 1E8,1,OK,,88.783
+,Kathleen O.,Wynne,Female ,Constituency office,"Suite 101
+795 Eglinton Ave. E.
+",Toronto,ON,M4G 4E4,kwynne.mpp.co@liberal.ola.org,,416-425-6777,416-425-0350,,,Don Valley West,Ontario Liberal Party,134,"East York, ON M4G 4E4, Canada",,43.7130931,-79.3661795,"43.71309309999999,-79.3661795",ChIJ11xRitjM1IkRecYgpL7Q10E,postal_code,M4G 4E4,M4G 4E4,1,OK,,7.813
+Hon.,John,Yakabuski,Male ,Constituency office,"The Victoria Center
+Unit 6
+84 Isabella St.
+",Pembroke,ON,K8A 5S5,john.yakabuskico@pc.ola.org,john.yakabuski@pc.ola.org,613-735-6627,613-735-6692,,,Renfrew—Nipissing—Pembroke,Progressive Conservative Party of Ontario,135,"Pembroke, ON K8A 5S5, Canada",,45.8241578,-77.113054,"45.82415779999999,-77.11305399999999",ChIJGegjU6c30UwRlneku0XduxE,postal_code,K8A 5S5,K8A 5S5,1,OK,,386.513
+,Kevin,Yarde,Male ,Constituency office,"Unit 7
+10215 Kennedy Rd. N.
+",Brampton,ON,L6Z 0C5,KYarde-CO@ndp.on.ca,KYarde-QP@ndp.on.ca,905-495-8030,905-495-1041,,,Brampton North,New Democratic Party of Ontario,136,"Brampton, ON L6Z 0C5, Canada",,43.720112,-79.7818643,"43.720112,-79.7818643",ChIJp7MAyn0WK4gRih_Qw3t628g,postal_code,L6Z 0C5,L6Z 0C5,1,OK,,46.764
+Hon.,Jeff,Yurek,Male ,Constituency office,"Suite 201
+750 Talbot St.
+",St. Thomas,ON,N5P 1E2,jeff.yurekco@pc.ola.org,jeff.yurek@pc.ola.org,519-631-0666,519-631-9478,1-800-265-7638,,Elgin—Middlesex—London,Progressive Conservative Party of Ontario,137,"St Thomas, ON N5P 1E2, Canada",,42.7785372,-81.1847402,"42.7785372,-81.1847402",ChIJM6qVvT9eLogRMRip2xeXCwY,postal_code,N5P 1E2,N5P 1E2,1,OK,,203.057

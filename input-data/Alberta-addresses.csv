@@ -1,0 +1,182 @@
+District name,Primary role,Name,First name,Last name,Address,,formatted_address,latitude,longitude,coordinates,accuracy,google_place_id,,,distance **1021.445 is NULL **
+Airdrie-Cochrane,MLA,Pete Guthrie,Pete,Guthrie,"Suite 1B, 60 Railway Street East
+Cochrane, AB T4C 1B5",0,"1B-60 Railway St E, Cochrane, AB T4C 2B5, Canada",51.18752,-114.465407,"51.18752,-114.465407",ROOFTOP,EjAxQi02MCBSYWlsd2F5IFN0IEUsIENvY2hyYW5lLCBBQiBUNEMgMkI1LCBDYW5hZGEiHhocChYKFAoSCfH5PCGDQHFTEZ2hvPCB6WJDEgIxQg,,,3258.988
+Airdrie-East,MLA,Angela Pitt,Angela,Pitt,"209 Bowers Street
+Airdrie, AB T4B 0R6",1,"209 Bowers St, Airdrie, AB T4B 0R6, Canada",51.2929594,-114.0120406,"51.2929594,-114.0120406",RANGE_INTERPOLATED,EioyMDkgQm93ZXJzIFN0LCBBaXJkcmllLCBBQiBUNEIgMFI2LCBDYW5hZGEiGxIZChQKEgnTiZNEb19xUxFxSuRuD8MhtRDRAQ,,,3237.501
+Athabasca-Barrhead-Westlock,MLA,Glenn van Dijken,Glenn van,Dijken,"5106 - 50 Street
+Barrhead, AB T7N 1A3",2,"5106 50 St, Barrhead, AB T7N, Canada",54.1205572,-114.4040551,"54.1205572,-114.4040551",RANGE_INTERPOLATED,EiA1MTA2IDUwIFN0LCBCYXJyaGVhZCwgQUIsIENhbmFkYSIbEhkKFAoSCSOS1fMiXJ9TEd9DTB4mbwsnEPIn,,,3386.749
+Banff-Kananaskis,MLA,Miranda Rosin,Miranda,Rosin,"206, 1080 Railway Avenue
+Canmore, AB T1W 1P4",3,"206-1080 Railway Ave, Canmore, AB T1W 1P4, Canada",51.09158,-115.355963,"51.09158,-115.355963",ROOFTOP,EjEyMDYtMTA4MCBSYWlsd2F5IEF2ZSwgQ2FubW9yZSwgQUIgVDFXIDFQNCwgQ2FuYWRhIh8aHQoWChQKEgmjVRC9lMVwUxEMoSHRhnQ76BIDMjA2,,,3317.07
+Bonnyville-Cold Lake-St. Paul,MLA,David B. Hanson,David B.,Hanson,"Box 5160
+#2, 4428 - 50 Avenue
+Bonnyville, AB T9N 2G4",4,,,,,,,,,1021.445
+Brooks-Medicine Hat,MLA,Michaela Glasgo,Michaela,Glasgo,"#4, 650 Cassils Rd. E
+Brooks, AB T1R 1M6",5,,,,,,,,,1021.445
+Calgary-Acadia,MLA,Tyler Shandro,Tyler,Shandro,"Suite #105, 10333 Southport Road SW
+Calgary, AB T2W 3X6",6,,,,,,,,,1021.445
+Calgary-Beddington,MLA,Josephine Pon,Josephine,Pon,"Unit 106, 8220 Centre Street NE
+Calgary, AB T3K 1J7",7,"106-8220 Centre St N, Calgary, AB T3K 1J7, Canada",51.1267614,-114.0700971,"51.1267614,-114.0700971",ROOFTOP,EjExMDYtODIyMCBDZW50cmUgU3QgTiwgQ2FsZ2FyeSwgQUIgVDNLIDFKNywgQ2FuYWRhIh8aHQoWChQKEglpc1o612VxUxGknzsye5Q9BxIDMTA2,,,3219.927
+Calgary-Bow,MLA,Demetrios Nicolaides,Demetrios,Nicolaides,"6307 Bowness Rd NW
+Calgary, AB T3B 0E4",8,"6307 Bowness Rd NW, Calgary, AB T3B 0E4, Canada",51.0849149,-114.1786832,"51.0849149,-114.1786832",ROOFTOP,ChIJsTc4BOhucVMR-nYIG55qopU,,,3223.491
+Calgary-Buffalo,MLA,Joe Ceci,Joe,Ceci,"1173 - 11 Avenue SW
+Calgary, AB T2R 0G4",9,"1173 11 Ave SW, Calgary, AB T2R 0G4, Canada",51.0428395,-114.0885579,"51.0428395,-114.0885579",RANGE_INTERPOLATED,EisxMTczIDExIEF2ZSBTVywgQ2FsZ2FyeSwgQUIgVDJSIDBHNCwgQ2FuYWRhIhsSGQoUChIJV1s-Ft5vcVMRj8gGA7YI7-kQlQk,,,3218.412
+Calgary-Cross,MLA,Mickey Amery,Mickey,Amery,"766, 2220 - 68 Street NE
+Calgary, AB T1Y 6Y7",10,"2220 68 St NE Unit 766, Calgary, AB T1Y 6Y7, Canada",51.0693999,-113.9339002,"51.0693999,-113.9339002",ROOFTOP,ChIJha2ikFV7cVMRzGYcvFX1NUA,,,3204.942
+Calgary-Currie,MLA,Nicholas Milliken,Nicholas,Milliken,"Unit 211, 1608 - 17 Avenue SW
+Calgary, AB T2T 0E3",11,"211-1608 17 Ave SW, Calgary, AB T2T 0E3, Canada",51.0380858,-114.0976359,"51.0380858,-114.0976359",ROOFTOP,Ei8yMTEtMTYwOCAxNyBBdmUgU1csIENhbGdhcnksIEFCIFQyVCAwRTMsIENhbmFkYSIfGh0KFgoUChIJiWQZPthvcVMRki7UYTXih8oSAzIxMQ,,,3216.991
+Calgary-East,MLA,Peter Singh,Peter,Singh,"#202, 3505 - 52 Street SE
+Calgary, AB T2B 3R3",12,,,,,,,,,1021.445
+Calgary-Edgemont,MLA,Prasad Panda,Prasad,Panda,"Suite 222, 5149 Country Hills Blvd NW
+Calgary, AB T3A 5K8",13,"5149 Country Hills Blvd NW #222, Calgary, AB T3A 5K8, Canada",51.1384032,-114.1595792,"51.1384032,-114.1595792",ROOFTOP,ChIJBQBQIZdocVMREZ0CMZvs120,,,3227.154
+Calgary-Elbow,MLA,Doug Schweitzer,Doug,Schweitzer,"Unit 205, 5005 Elbow Drive SW
+Calgary, AB T2S 2T6",14,"205-5005 Elbow Dr SW, Calgary, AB T2V 1H5, Canada",51.0093286,-114.0819782,"51.0093286,-114.0819782",ROOFTOP,EjEyMDUtNTAwNSBFbGJvdyBEciBTVywgQ2FsZ2FyeSwgQUIgVDJWIDFINSwgQ2FuYWRhIh8aHQoWChQKEgnP-ppsUnBxUxHv6Lj56LEepxIDMjA1,,,3210.694
+Calgary-Falconridge,MLA,Devinder Toor,Devinder,Toor,"Unit 215, 5401 Temple Drive NE
+Calgary, AB T1Y 3R7",15,"5401 Temple Dr NE #215, Calgary, AB T1Y 3R7, Canada",51.084946,-113.9574467,"51.084946,-113.9574467",ROOFTOP,ChIJ__-_lKNkcVMRPlsLro0BsQ8,,,3208.199
+Calgary-Fish Creek,MLA,Richard Gotfried,Richard,Gotfried,"Bay 7, 1215 Lake Sylvan Drive SE
+Calgary, AB T2J 3Z5",16,"7-1215 Lake Sylvan Dr SE, Calgary, AB T2J 3Z5, Canada",50.9421281,-114.0326048,"50.94212810000001,-114.0326048",ROOFTOP,EjU3LTEyMTUgTGFrZSBTeWx2YW4gRHIgU0UsIENhbGdhcnksIEFCIFQySiAzWjUsIENhbmFkYSIdGhsKFgoUChIJ5-8AsN92cVMRc4CH_6eM5hsSATc,,,3203.413
+Calgary-Foothills,MLA,Jason Luan,Jason,Luan,"#29, 735 Ranchlands Blvd NW
+Calgary, AB T3G 3A9",17,,,,,,,,,1021.445
+Calgary-Glenmore,MLA,Whitney Issik,Whitney,Issik,"#311A, 2525 Woodview Drive SW
+Calgary, AB T2W 4N4",18,,,,,,,,,1021.445
+Calgary-Hays,MLA,Ric McIver,Ric,McIver,"222, 5126 - 126 Avenue SE
+Calgary, AB T2Z 0H2",19,"222-5126 126 Ave SE, Calgary, AB T2Z 0H2, Canada",50.9348828,-113.960236,"50.9348828,-113.960236",ROOFTOP,EjAyMjItNTEyNiAxMjYgQXZlIFNFLCBDYWxnYXJ5LCBBQiBUMlogMEgyLCBDYW5hZGEiHxodChYKFAoSCZF1wU5_d3FTEQfplYbsf6GEEgMyMjI,,,3193.504
+Calgary-Klein,MLA,Jeremy Nixon,Jeremy,Nixon,"201, 1055 - 20 Avenue NW
+Calgary, AB T2M 1E7",20,"201-1055 20 Ave NW, Calgary, AB T2M 1E7, Canada",51.0702376,-114.0845185,"51.0702376,-114.0845185",ROOFTOP,Ei8yMDEtMTA1NSAyMCBBdmUgTlcsIENhbGdhcnksIEFCIFQyTSAxRTcsIENhbmFkYSIfGh0KFgoUChIJb5ehK49vcVMRD6M1JImjrWwSAzIwMQ,,,3215.467
+Calgary-Lougheed,MLA,Jason Kenney,Jason,Kenney,"2105, 230 Eversyde Blvd SW
+Calgary, AB T2Y 0J4",21,"2105-230 Eversyde Blvd SW, Calgary, AB T2Y 0J4, Canada",50.9093583,-114.1100192,"50.9093583,-114.1100192",ROOFTOP,EjYyMTA1LTIzMCBFdmVyc3lkZSBCbHZkIFNXLCBDYWxnYXJ5LCBBQiBUMlkgMEo0LCBDYW5hZGEiIBoeChYKFAoSCYljWatJdHFTEejWDGRWvyO1EgQyMTA1,,,3202.814
+Calgary-McCall,MLA,Irfan Sabir,Irfan,Sabir,"Unit 223, 4850 Westwinds Drive NE
+Calgary, AB T3J 3Z5",22,"223-4850 Westwinds Dr NE, Calgary, AB T3J 3Z5, Canada",51.1008598,-113.9640574,"51.10085979999999,-113.9640574",ROOFTOP,EjUyMjMtNDg1MCBXZXN0d2luZHMgRHIgTkUsIENhbGdhcnksIEFCIFQzSiAzWjUsIENhbmFkYSIfGh0KFgoUChIJJX1374JkcVMR3jcHd0bIQcwSAzIyMw,,,3210.873
+Calgary-Mountain View,MLA,Kathleen Ganley,Kathleen,Ganley,"#102, 723 - 14 Street NW
+Calgary, AB T2N 2A4",23,,,,,,,,,1021.445
+Calgary-North,MLA,Muhammad Yaseen,Muhammad,Yaseen,"104, 200 Country Hills Landing NW
+Calgary, AB T3K 5P3",24,"200 Country Hills Landing NW Suit 104, Calgary, AB T3K 5P3, Canada",51.14306,-114.073714,"51.14306,-114.073714",ROOFTOP,ChIJwWkX6GJmcVMR-g1VL2jzKdI,,,3221.177
+Calgary-North East,MLA,Rajan Sawhney,Rajan,Sawhney,"1080, 11124 - 36 Street NE
+Calgary, AB T3N 1L3",25,"1080-11124 36 St NE, Calgary, AB T3N 1L3, Canada",51.1538492,-113.9805959,"51.1538492,-113.9805959",ROOFTOP,EjAxMDgwLTExMTI0IDM2IFN0IE5FLCBDYWxnYXJ5LCBBQiBUM04gMUwzLCBDYW5hZGEiIBoeChYKFAoSCTn3EdleYXFTETHQrfgA9gbtEgQxMDgw,,,3218.611
+Calgary-North West,MLA,Sonya Savage,Sonya,Savage,"Suite 7223, 8650 - 112th Avenue NW
+Calgary, AB T3R 0R5",26,"7223-8650 112 Ave NW, Calgary, AB T3R 0J5, Canada",51.1522748,-114.2098082,"51.1522748,-114.2098082",ROOFTOP,EjE3MjIzLTg2NTAgMTEyIEF2ZSBOVywgQ2FsZ2FyeSwgQUIgVDNSIDBKNSwgQ2FuYWRhIiAaHgoWChQKEgkJ4HkOUWhxUxG1oHMjTiSBjhIENzIyMw,,,3243.145
+Calgary-Peigan,MLA,Tanya Fir,Tanya,Fir,"255, 11488 - 24 Street SE
+Calgary, AB T2Z 4C9",27,"255-11488 24 St SE, Calgary, AB T2Z 4C9, Canada",50.9539409,-113.9998084,"50.9539409,-113.9998084",ROOFTOP,Ei8yNTUtMTE0ODggMjQgU3QgU0UsIENhbGdhcnksIEFCIFQyWiA0QzksIENhbmFkYSIfGh0KFgoUChIJTVgH20Z3cVMRXpcFUVobu2gSAzI1NQ,,,3198.96
+Calgary-Shaw,MLA,Rebecca Schulz,Rebecca,Schulz,"Suite 230, 251 Midpark Blvd SE
+Calgary, AB T2X 1S3",28,"251 Midpark Blvd SE #230, Calgary, AB T2X 1S3, Canada",50.9111877,-114.0629929,"50.9111877,-114.0629929",ROOFTOP,ChIJ__-v_n12cVMRIykTUNXLul0,,,3199.838
+Calgary-South East,MLA,Matt Jones,Matt,Jones,"Unit 202, 5126 - 126 Avenue SE
+Calgary, AB T2Z 0H2",29,"202-5126 126 Ave SE, Calgary, AB T2Z 0H2, Canada",50.9348828,-113.960236,"50.9348828,-113.960236",ROOFTOP,EjAyMDItNTEyNiAxMjYgQXZlIFNFLCBDYWxnYXJ5LCBBQiBUMlogMEgyLCBDYW5hZGEiHxodChYKFAoSCZF1wU5_d3FTEQfplYbsf6GEEgMyMDI,,,3193.504
+Calgary-Varsity,MLA,Jason Copping,Jason,Copping,"201, 1055 - 20 Avenue NW
+Calgary, AB T2M 1E7",30,"201-1055 20 Ave NW, Calgary, AB T2M 1E7, Canada",51.0702376,-114.0845185,"51.0702376,-114.0845185",ROOFTOP,Ei8yMDEtMTA1NSAyMCBBdmUgTlcsIENhbGdhcnksIEFCIFQyTSAxRTcsIENhbmFkYSIfGh0KFgoUChIJb5ehK49vcVMRD6M1JImjrWwSAzIwMQ,,,3215.467
+Calgary-West,MLA,Mike Ellis,Mike,Ellis,"Unit 234, 333 Aspen Glen Landing SW
+Calgary, AB T3H 0N6",31,"234-333 Aspen Glen Landing SW, Calgary, AB T3H 0N6, Canada",51.0395938,-114.2075946,"51.0395938,-114.2075946",ROOFTOP,EjoyMzQtMzMzIEFzcGVuIEdsZW4gTGFuZGluZyBTVywgQ2FsZ2FyeSwgQUIgVDNIIDBONiwgQ2FuYWRhIh8aHQoWChQKEglrI3et3G1xUxEo5Fx27zsBhRIDMjM0,,,3222.11
+Camrose,MLA,Jackie Lovely,Jackie,Lovely,"4870 - 51 Street
+Camrose, AB T4V 1S1",32,"4870 51 St, Camrose, AB T4V 1S1, Canada",53.0207064,-112.8269913,"53.02070639999999,-112.8269913",ROOFTOP,ChIJ4cyJ48S7ClMRnpttoRARBZE,,,3208.648
+Cardston-Siksika,MLA,Joseph Schow,Joseph,Schow,T0KÂ 0K0,33,,,,,,,,,1021.445
+Central Peace-Notley,MLA,Todd Loewen,Todd,Loewen,"110 Street
+Fairview, AB T0H 1L0",34,"110 St, Fairview, AB T0H 1L0, Canada",56.0666134,-118.3843336,"56.06661339999999,-118.3843336",GEOMETRIC_CENTER,ChIJSxlAad_DllMRWwXhinMVP9M,,,3815.304
+Chestermere-Strathmore,MLA,Leela Sharon Aheer,Leela Sharon,Aheer,"Box 2527
+Strathmore, AB T1P 0H3",35,"Strathmore, AB T1P, Canada",51.0376583,-113.3992726,"51.0376583,-113.3992726",APPROXIMATE,ChIJ-WRhXfrMc1MRnyribFeqJps,,,3165.815
+Cypress-Medicine Hat,MLA,Drew Barnes,Drew,Barnes,"Trans Canada Place #5
+1299 Trans Canada Way
+Medicine Hat, AB T1B 1H9",36,,,,,,,,,1021.445
+Drayton Valley-Devon,MLA,Mark Smith,Mark,Smith,T7A 1S5,37,"Drayton Valley, AB T7A 1S5, Canada",53.2231787,-114.9834766,"53.2231787,-114.9834766",APPROXIMATE,ChIJ6_fzRa9HnlMR6oNoMQDKMmQ,,,3421.95
+Drumheller-Stettler,MLA,Nate Horner,Nate,Horner,"300 South Railway Avenue East
+Drumheller, AB T0J 0Y0",38,"300 S Railway Ave, Drumheller, AB J4Y 0K7, Canada",51.4593379,-112.7030849,"51.4593379,-112.7030849",ROOFTOP,ChIJGdgWsHwSc1MRoxoRtjgfD8Y,,,3168.317
+Edmonton-Beverly-Clareview,MLA,Deron Bilous,Deron,Bilous,"552 Hermitage Mall
+40 Street & Hermitage Road
+Edmonton, AB T5A 4N2",39,"3303 E State St, Hermitage, PA 16148, USA",41.2347939,-80.446748,"41.2347939,-80.446748",ROOFTOP,ChIJoTABaY-_M4gR3BkI37IwCMU,,,792.352
+Edmonton-Castle Downs,MLA,Nicole Goehring,Nicole,Goehring,"12120 - 161 Avenue
+Edmonton, AB T5X 5M8",40,"12120 161 Ave NW, Edmonton, AB T5X 5M8, Canada",53.6224816,-113.5338015,"53.6224816,-113.5338015",ROOFTOP,ChIJpfdpXPYkoFMR7Jk0Yg_rcAk,,,3283.553
+Edmonton-City Centre,MLA,David Shepherd,David,Shepherd,"10208 - 112 Street
+Edmonton, AB T5K 1M4",41,"10208 112 St NW, Edmonton, AB T5K 0P4, Canada",53.5433415,-113.5141694,"53.5433415,-113.5141694",ROOFTOP,ChIJBfMTSTEioFMRwlVU81V7r_Q,,,3277.713
+Edmonton-Decore,MLA,Chris Nielsen,Chris,Nielsen,"#203, 8119 - 160 Avenue
+Edmonton, AB T5Z 0G3",42,,,,,,,,,1021.445
+Edmonton-Ellerslie,MLA,Rod Loyola,Rod,Loyola,"5732 - 19A Avenue
+Edmonton, AB T6L 1L8",43,"5732 19a Ave NW, Edmonton, AB T6L 1L8, Canada",53.450678,-113.4289199,"53.450678,-113.4289199",RANGE_INTERPOLATED,Ei01NzMyIDE5YSBBdmUgTlcsIEVkbW9udG9uLCBBQiBUNkwgMUw4LCBDYW5hZGEiGxIZChQKEgkbAx7WQBmgUxEXY3wpfaMwoBDkLA,,,3282.603
+Edmonton-Glenora,MLA,Sarah Hoffman,Sarah,Hoffman,"#201, 12408 - 108 Avenue
+Edmonton, AB T5M 0H3",44,,,,,,,,,1021.445
+Edmonton-Gold Bar,MLA,Marlin Schmidt,Marlin,Schmidt,"#100, 8925 - 82 Avenue
+Edmonton, AB T6C 0Z2",45,,,,,,,,,1021.445
+Edmonton-Highlands-Norwood,MLA,Janis Irwin,Janis,Irwin,"6519 - 112 Avenue
+Edmonton, AB T5W 0P1",46,"6519 112 Ave NW, Edmonton, AB T5W 0P1, Canada",53.564568,-113.438323,"53.564568,-113.438323",ROOFTOP,ChIJJ_-nSt8ioFMRlRBm511brwU,,,3270.423
+Edmonton-Manning,MLA,Heather Sweet,Heather,Sweet,"14904 - 50 Street
+Edmonton, AB T5A 5H7",47,"14904 50 St NW, Edmonton, AB T5A 5H7, Canada",53.6129676,-113.4188672,"53.6129676,-113.4188672",ROOFTOP,ChIJtf9jsKE8oFMRfOQyP2lbU60,,,3272.036
+Edmonton-McClung,MLA,Lorne Dach,Lorne,Dach,"#301, 6650 - 177 Street
+Edmonton, AB T5T 4J5",48,,,,,,,,,1021.445
+Edmonton-Meadows,MLA,Jasvir Deol,Jasvir,Deol,"Unit 204B, 3323 - 34 Street NW
+Edmonton, AB T6T 2K6",49,"204B-3323 34 St NW, Edmonton, AB T6T 1V6, Canada",53.4624485,-113.392642,"53.4624485,-113.392642",ROOFTOP,EjAyMDRCLTMzMjMgMzQgU3QgTlcsIEVkbW9udG9uLCBBQiBUNlQgMVY2LCBDYW5hZGEiIBoeChYKFAoSCW8GLnWgGaBTEQKdDj3g60RhEgQyMDRC,,,3277.67
+Edmonton-Mill Woods,MLA,Christina Gray,Christina,Gray,"3448 - 93 Street
+Edmonton, AB T6E 6A4",50,"3448 93 St NW, Edmonton, AB T6E 6A4, Canada",53.4671923,-113.4746134,"53.46719230000001,-113.4746134",ROOFTOP,ChIJLSRHoSofoFMR6pEEE9JwUcU,,,3281.879
+Edmonton-North West,MLA,David Eggen,David,Eggen,"Unit A, 10212 - 127 Avenue
+Edmonton, AB T5E 0B8",51,"10212 127 Ave NW Unit A, Edmonton, AB T5E 0B8, Canada",53.5850213,-113.4960111,"53.5850213,-113.4960111",ROOFTOP,EjUxMDIxMiAxMjcgQXZlIE5XIFVuaXQgQSwgRWRtb250b24sIEFCIFQ1RSAwQjgsIENhbmFkYSIiGiAKFgoUChIJ9_w-2nYjoFMRawQjEAj6wpMSBlVuaXQgQQ,,,3273.093
+Edmonton-Riverview,MLA,Lori Sigurdson,Lori,Sigurdson,"9202B - 149 Street
+Edmonton, AB T5R 1C3",52,"9202 B 149 St NW, Edmonton, AB T5R 1C3, Canada",53.5269108,-113.5786987,"53.5269108,-113.5786987",ROOFTOP,ChIJc_Qk4KQhoFMR7Wu6Ik9NMT4,,,3292.024
+Edmonton-Rutherford,MLA,Richard Feehan,Richard,Feehan,"308 Saddleback Road
+Edmonton, AB T6J 4R7",53,"308 Saddleback Rd NW, Edmonton, AB T6J 4R7, Canada",53.46108,-113.530595,"53.46108,-113.530595",ROOFTOP,ChIJLVTOCgQfoFMRFI_KIRHC39I,,,3285.822
+Edmonton-South,MLA,Thomas Dang,Thomas,Dang,"202, 856 - 119 Street SW
+Edmonton, AB T6W 0J1",54,"856 119 St SW #202, Edmonton, AB T6W 0J1, Canada",53.4255948,-113.5294184,"53.4255948,-113.5294184",ROOFTOP,ChIJacd7Xm8eoFMR2SHQZRL8GDk,,,3289.16
+Edmonton-South West,MLA,Kaycee Madu,Kaycee,Madu,"5160 Windermere Boulevard
+Edmonton, AB T6W 0L9",55,"5160 Windermere Blvd, Edmonton, AB T6W 0L9, Canada",53.4354779,-113.6021206,"53.4354779,-113.6021206",ROOFTOP,ChIJ2ynVRYH1n1MRGRLFDySGJX0,,,3293.473
+Edmonton-Strathcona,MLA,Rachel Notley,Rachel,Notley,"Strathcona Professional Centre
+#101, 10328 - 81 Avenue NW
+Edmonton, AB T6E 1X2",56,,,,,,,,,1021.445
+Edmonton-West Henday,MLA,Jon Carson,Jon,Carson,"#103, 14020 - 128 Avenue
+Edmonton, AB T5L 4M8",57,,,,,,,,,1021.445
+Edmonton-Whitemud,MLA,Rakhi Pancholi,Rakhi,Pancholi,"#203, 596 Riverbend Square
+Edmonton, AB T6R 2E3",58,,,,,,,,,1021.445
+Fort McMurray-Lac La Biche,MLA,Laila Goodridge,Laila,Goodridge,"Suite 107, 10110 Fraser Avenue
+Fort McMurray, AB T9H 5C2",59,"10110 Fraser Ave #107, Fort McMurray, AB T9H 5C2, Canada",56.7310485,-111.3829864,"56.7310485,-111.3829864",ROOFTOP,ChIJtRyPm8oIsFMRvi4WGj-ZJpc,,,3591.245
+Fort McMurray-Wood Buffalo,MLA,Tany Yao,Tany,Yao,"Suite #102, 9912 Franklin Avenue
+Fort McMurray, AB T9H 2K4",60,,,,,,,,,1021.445
+Fort Saskatchewan-Vegreville,MLA,Jackie Armstrong-Homeniuk,Jackie,Armstrong-Homeniuk,"51 Avenue
+Vegreville, AB T9C 1M1",61,"51 Ave, Vegreville, AB T9C 1M1, Canada",53.4961808,-112.0536275,"53.4961808,-112.0536275",GEOMETRIC_CENTER,EiY1MSBBdmUsIFZlZ3JldmlsbGUsIEFCIFQ5QyAxTTEsIENhbmFkYSIuKiwKFAoSCZXYzVtBnKBTEczr1eLfs-6jEhQKEgknbD5TQZygUxHMyrqOOWctiA,,,3173.162
+Grande Prairie,MLA,Tracy Allard,Tracy,Allard,"10605 West Side Drive
+Grande Prairie, AB T8V 8E6",62,"10605 W Side Dr, Grande Prairie, AB T8V 8E6, Canada",55.1683859,-118.8146942,"55.1683859,-118.8146942",ROOFTOP,ChIJ8WpQdUSRkFMRBW50FtCOA7U,,,3727.452
+Grande Prairie-Wapiti,MLA,Travis Toews,Travis,Toews,"102 Street
+Grande Prairie, AB T8X 0K7",63,"102 St, Grande Prairie, AB T8X 0K7, Canada",55.224749,-118.8032046,"55.224749,-118.8032046",GEOMETRIC_CENTER,EioxMDIgU3QsIEdyYW5kZSBQcmFpcmllLCBBQiBUOFggMEs3LCBDYW5hZGEiLiosChQKEgkPAqGda5SQUxEI6n1Qvh_BbBIUChIJW-zIRV2UkFMRy7IRGN5wCYY,,,3720.674
+Highwood,MLA,R.J. Sigurdson,R.J.,Sigurdson,"49 Elizabeth Street
+Box 568
+Okotoks, AB T1S 1A7",64,"Okotoks Flowers, 49 Elizabeth St #9, Okotoks, AB T1S 1A5, Canada",50.7258885,-113.9793885,"50.7258885,-113.9793885",ROOFTOP,ChIJg2UoRDOYcVMRo8wb_mxviHs,,,3206.77
+Innisfail-Sylvan Lake,MLA,Devin Dreeshen,Devin,Dreeshen,"49 Street
+Innisfail, AB T4G 1M1",65,"49 St, Innisfail, AB T4G 1M1, Canada",52.0265402,-113.9526405,"52.0265402,-113.9526405",GEOMETRIC_CENTER,EiQ0OSBTdCwgSW5uaXNmYWlsLCBBQiBUNEcgMU0xLCBDYW5hZGEiLiosChQKEgm5c5TiYEF0UxFYUTN_gtNC8xIUChIJAwwrOGdBdFMREqh6MJkAllw,,,3266.739
+Lac Ste. Anne-Parkland,MLA,Shane Getson,Shane,Getson,"4708 Lac Ste. Anne Trail North
+Onoway, AB T0E 1V0",66,"4708 Lac St Anne Trail N, Onoway, AB T0E 1V0, Canada",53.7054841,-114.190478,"53.7054841,-114.190478",ROOFTOP,ChIJvfNtOhWdn1MRWLUGWzZz0eU,,,3332.784
+Lacombe-Ponoka,MLA,Ronald Orr,Ronald,Orr,"46 Street
+Lacombe, AB T4L 2B4",67,"46 St, Lacombe, AB T4L 2B4, Canada",52.4622658,-113.7281148,"52.4622658,-113.7281148",GEOMETRIC_CENTER,EiI0NiBTdCwgTGFjb21iZSwgQUIgVDRMIDJCNCwgQ2FuYWRhIi4qLAoUChIJnS7o1QcEdVMR_IVPgJC8JWkSFAoSCeFOtNQHBHVTEb_POwK7wpBL,,,3277.375
+Leduc-Beaumont,MLA,Brad Rutherford,Brad,Rutherford,"29 Avenue
+Beaumont, AB T4X 0H5",68,"29 Ave, Beaumont, AB T4X 0H5, Canada",53.3389142,-113.4321186,"53.3389142,-113.4321186",GEOMETRIC_CENTER,ChIJjYk7U9UcoFMRAFXV8KJAbck,,,3265.758
+Lesser Slave Lake,MLA,Pat Rehn,Pat,Rehn,"12 Poplar Drive
+Visitor Information Centre
+Slave Lake, AB T0G 2A0",69,"723070 Poplar Drive, Slave Lake, AB T0G 2A0, Canada",55.2557445,-114.7341074,"55.2557445,-114.7341074",ROOFTOP,ChIJ21_OEaeNolMRQG76A8prrbw,,,3499.019
+Lethbridge-East,MLA,Nathan Neudorf,Nathan,Neudorf,"550 WT Hill Blvd. South
+Lethbridge, AB T1J 4Z9",70,"550 Wt Hill Blvd S, Lethbridge, AB T1J 4Z8, Canada",49.6924491,-112.7863748,"49.6924491,-112.7863748",ROOFTOP,ChIJC6o3-_iGblMRRVWtd5PS1pA,,,3115.979
+Lethbridge-West,MLA,Shannon Phillips,Shannon,Phillips,"410 Stafford Dr. S.
+Lethbridge, AB T1J 2L2",71,"410 Stafford Dr S, Lethbridge, AB T1J 2L2, Canada",49.6940642,-112.834139,"49.69406420000001,-112.834139",ROOFTOP,ChIJdXWldcyHblMRULv48w6WbWI,,,3119.435
+Livingstone-Macleod,MLA,Roger Reid,Roger,Reid,"618 Center Street SE
+High River, AB T1V 1E9",72,"618 Centre St SE, High River, AB T1V 1E9, Canada",50.5768906,-113.8711537,"50.5768906,-113.8711537",ROOFTOP,ChIJG4YKsT-VcVMRHQ16GjRgIOw,,,3211.187
+Maskwacis-Wetaskiwin,MLA,Rick Wilson,Rick,Wilson,"50 Street
+Wetaskiwin, AB T9A 1K1",73,"50 St, Wetaskiwin, AB T9A 1K1, Canada",52.970473,-113.3738939,"52.970473,-113.3738939",GEOMETRIC_CENTER,EiU1MCBTdCwgV2V0YXNraXdpbiwgQUIgVDlBIDFLMSwgQ2FuYWRhIi4qLAoUChIJe--2rDtOdVMRoC8_7XIsNRMSFAoSCcNDz7s7TnVTEbeq7qPb88ZG,,,3248.407
+Morinville-St. Albert,MLA,Dale Nally,Dale,Nally,"100 Street
+Morinville, AB T8R 1R3",74,"100 St, Morinville, AB T8R 1R3, Canada",53.7992201,-113.6449069,"53.7992201,-113.6449069",GEOMETRIC_CENTER,EiYxMDAgU3QsIE1vcmludmlsbGUsIEFCIFQ4UiAxUjMsIENhbmFkYSIuKiwKFAoSCXlWeGidLaBTEZGHTNjLbDkdEhQKEglBuqbndy2gUxFRWi0lenVCYQ,,,3304.723
+Olds-Didsbury-Three Hills,MLA,Nathan Cooper,Nathan,Cooper,"4905 B - 50 Avenue
+Olds, AB T4H 1P6",75,"4905 50 Ave, Olds, AB T4H 1S2, Canada",51.792305,-114.104643,"51.792305,-114.104643",ROOFTOP,ChIJZzCc3lcQdFMRLEIW2xn3lCU,,,3252.671
+Peace River,MLA,Dan Williams,Dan,Williams,"101 Avenue
+P.O. Box 2793
+La Crete, AB T0H 2H0",76,"10101 101 St, La Crête, AB T0H 2H0, Canada",58.1882521,-116.4060376,"58.1882521,-116.4060376",ROOFTOP,ChIJ1btGe08Vv1MR_1ye9H9wWQs,,,3918.924
+Red Deer-North,MLA,Adriana LaGrange,Adriana,LaGrange," 50 Avenue
+Red Deer, AB T4N 4C4",77,"50 Ave, Red Deer, AB T4N 4C4, Canada",52.2788884,-113.8139968,"52.2788884,-113.8139968",GEOMETRIC_CENTER,EiQ1MCBBdmUsIFJlZCBEZWVyLCBBQiBUNE4gNEM0LCBDYW5hZGEiLiosChQKEgkrZvB0qVV0UxHr6vQjJUl-MxIUChIJWS67gjZUdFMRkduUV7BnNcM,,,3288.755
+Red Deer-South,MLA,Jason Stephan,Jason,Stephan,"54 Avenue
+Red Deer, AB T4N 4L9",78,"54 Ave, Red Deer, AB T4N 4L9, Canada",52.2641503,-113.8223306,"52.2641503,-113.8223306",GEOMETRIC_CENTER,EiQ1NCBBdmUsIFJlZCBEZWVyLCBBQiBUNE4gNEw5LCBDYW5hZGEiLiosChQKEgmHASC-IVR0UxFlih6bRpP3DxIUChIJCWIugCFUdFMR6_ErmfNatk4,,,3282.819
+Rimbey-Rocky Mountain House-Sundre,MLA,Jason Nixon,Jason,Nixon,"6 Street SW
+Sundre, AB T0M 1X0",79,"6 St SW, Sundre, AB T0M, Canada",51.7918952,-114.6511934,"51.7918952,-114.6511934",GEOMETRIC_CENTER,ChIJ_-XDVm6idlMRm3fpfC3AGuY,,,3290.963
+Sherwood Park,MLA,Jordan Walker,Jordan,Walker,"Athabasca Professional Building
+#105, 80 Chippewa Road
+Sherwood Park, AB T8A 4W6",80,,,,,,,,,1021.445
+Spruce Grove-Stony Plain,MLA,Searle Turton,Searle,Turton,"210 McLeod Avenue, Suite 60
+Spruce Grove, AB T7X 2K5",81,"210 McLeod Ave Unit 60, Spruce Grove, AB T7X 2K5, Canada",53.542005,-113.90456,"53.542005,-113.90456",ROOFTOP,ChIJg4RcMPKOn1MR_i0kehpCbNs,,,3311.665
+St. Albert,MLA,Marie Renaud,Marie,Renaud,"109B, 50 St. Thomas Street
+St. Albert, AB T8N 6Z8",82,"109B-50 St Thomas St, St. Albert, AB T8N 6Z8, Canada",53.632563,-113.624613,"53.632563,-113.624613",ROOFTOP,EjQxMDlCLTUwIFN0IFRob21hcyBTdCwgU3QuIEFsYmVydCwgQUIgVDhOIDZaOCwgQ2FuYWRhIiAaHgoWChQKEgm1d13FdyagUxEQ6tLGQ8_IjxIEMTA5Qg,,,3288.166
+Strathcona-Sherwood Park,MLA,Nate Glubish,Nate,Glubish,"Athabasca Professional Building
+#105, 80 Chippewa Road
+Sherwood Park, AB T8A 4W6",83,,,,,,,,,1021.445
+Taber-Warner,MLA,Grant Hunter,Grant,Hunter,"5402 - 50 Avenue
+Taber, AB T1G 1T9",84,"5402 50 Ave, Taber, AB T1G 1T9, Canada",49.7858301,-112.1425042,"49.7858301,-112.1425042",ROOFTOP,ChIJBQqpJwc2bFMReIGuBN2B3EU,,,3032.117
+Vermilion-Lloydminster-Wainwright,MLA,Garth Rowswell,Garth,Rowswell,"123 - 10 Street
+Wainwright, AB T9W 1N6",85,"123 10 St, Wainwright, AB T9W 1P8, Canada",52.8332413,-110.86079,"52.8332413,-110.86079",RANGE_INTERPOLATED,EikxMjMgMTAgU3QsIFdhaW53cmlnaHQsIEFCIFQ5VyAxUDgsIENhbmFkYSIaEhgKFAoSCStmmV-71gtTEbh6pcDZqT3zEHs,,,3070.863
+West Yellowhead,MLA,Martin Long,Martin,Long,"524B - 50 Street
+Edson, AB T7E 1V1",86,"524 50 St, Edson, AB T7E 1T1, Canada",53.584791,-116.4339011,"53.584791,-116.4339011",ROOFTOP,ChIJy5oTYnoinFMRB5Oo7CjWc6E,,,3478.591

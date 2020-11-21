@@ -18,9 +18,9 @@ There are multiple steps to get this project up and running
 Create a Google Cloud Platform account, enable the needed APIs, and enable billing (note the distinctions between free and paid use)
 Clean your .csv data sets before running through the APIs
 To get your destination geocodes, use "batchcode.py".
+For non-batch geocoding and distance coding use the "geocode.py" or "matrix.py".
 Use the saved output .csv file to use with "distance_matrix.py" 
-For non-batch geocoding and distance coding use the "geocode.py" and "matrix.py".
-For directions use "distance.py"
+For directions use "directions.py"
 ```
 
 ## Contributing

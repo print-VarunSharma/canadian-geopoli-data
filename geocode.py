@@ -6,8 +6,7 @@ GEOCODIO_API_KEY = os.getenv("GEOCODIO_API_KEY")
 client = GeocodioClient(GEOCODIO_API_KEY)
 
 geocoded_addresses = client.geocode([
-        "ANTIGONISH--GUYSBOROUGH, Nova Scotia, Canada",
-        'BRAMPTON, Ontario, Canada'
+        "2405 Legislative Drive, Regina, SK"
     ])
 # print(geocoded_addresses)
 print(geocoded_addresses.coords)
