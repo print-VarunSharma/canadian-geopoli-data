@@ -6,10 +6,10 @@ from dotenv import load_dotenv
 load_dotenv()
 API_key = os.getenv("GMAP_API_KEY")
 
-#data = pd.read_csv('input-data\Alberta-addresses.csv') 
+data = pd.read_csv(r'data\bcprovincial-coordinates.csv', encoding='cp1252') 
 # data_name = print("Enter excel data name to read: ")
-data = pd.read_excel(r'data\pei-coordinates.xlsx')
-output_filename = 'pei-done-distances.csv'
+# data = pd.read_excel(r'data\bcprovincial-coordinates.xlsx')
+output_filename = 'bc-distances.csv'
 
 
 gmaps = googlemaps.Client(key=API_key)
@@ -30,7 +30,7 @@ gmaps = googlemaps.Client(key=API_key)
 # NL	100 Prince Philip Dr, St. John's, NL A1B 3R4	47.58319119999999,-52.7242471
 # NB	706 Queen St, Fredericton, NB E3B 1C5	45.9593069,-66.63628100000001
 
-origin = print(input("Please enter Geocode coodinates here: " ))
+origin = "48.419617,-123.370285"
 
 destinations = data.coordinates
 
